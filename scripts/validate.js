@@ -96,6 +96,71 @@ items.forEach((item, i) => {
     errors.push(`Duplicate item ID: '${itemId}'`);
   }
   seenIds.add(itemId);
+
+  // Androidアプリ側の必須プロパティチェック
+  const requiredFields = [
+    "id", "title", "category", "subCategory", "tags", "dateInfo", 
+    "location", "commonStatus", "categoryStatus", "description", 
+    "recommendationReason", "rarityLabel", "imageUrl", "sources", 
+    "warnings", "notificationMeta", "toriComment", "updatedAt", "lastVerifiedAt"
+  ];
+  requiredFields.forEach(field => {
+    if (!item.hasOwnProperty(field)) {
+      errors.push(`Item '${itemId}' misses required field: '${field}'`);
+    }
+  });
+
+  // dateInfo の必須チェック
+  if (item.dateInfo && typeof item.dateInfo === 'object') {
+    const di = item.dateInfo;
+    ["startLocalDate", "endLocalDate", "displayDate"].forEach(f => {
+      if (!di.hasOwnProperty(f)) {
+        errors.push(`Item '${itemId}' misses dateInfo field: '${f}'`);
+      }
+    });
+  }
+
+  // location の必須チェック
+  if (item.location && typeof item.location === 'object') {
+    const loc = item.location;
+    ["prefecture", "areaName", "latitude", "longitude"].forEach(f => {
+      if (!loc.hasOwnProperty(f)) {
+        errors.push(`Item '${itemId}' misses location field: '${f}'`);
+      }
+    });
+  }
+
+  // sources の必須チェック
+  if (Array.isArray(item.sources)) {
+    item.sources.forEach((src, sIdx) => {
+      ["name", "url", "sourceType", "lastVerifiedAt", "certaintyLabel", "isPrimary"].forEach(f => {
+        if (!src.hasOwnProperty(f)) {
+          errors.push(`Source ${sIdx} in Item '${itemId}' misses field: '${f}'`);
+        }
+      });
+    });
+  }
+
+  // warnings の必須チェック
+  if (Array.isArray(item.warnings)) {
+    item.warnings.forEach((w, wIdx) => {
+      ["label", "severity", "message"].forEach(f => {
+        if (!w.hasOwnProperty(f)) {
+          errors.push(`Warning ${wIdx} in Item '${itemId}' misses field: '${f}'`);
+        }
+      });
+    });
+  }
+
+  // notificationMeta の必須チェック
+  if (item.notificationMeta && typeof item.notificationMeta === 'object') {
+    const nm = item.notificationMeta;
+    ["notifyEnabled", "notificationTitle", "notificationBodyTemplate", "priority", "targetRegions"].forEach(f => {
+      if (!nm.hasOwnProperty(f)) {
+        errors.push(`Item '${itemId}' misses notificationMeta field: '${f}'`);
+      }
+    });
+  }
   
   if (!item.title) {
     errors.push(`Item '${itemId}' has empty title.`);

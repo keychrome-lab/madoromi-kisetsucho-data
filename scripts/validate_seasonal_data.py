@@ -74,6 +74,52 @@ def validate():
         if item_id in seen_ids:
             errors.append(f"Duplicate item ID: '{item_id}'")
         seen_ids.add(item_id)
+
+        # Androidアプリ側の必須プロパティチェック
+        required_fields = [
+            "id", "title", "category", "subCategory", "tags", "dateInfo", 
+            "location", "commonStatus", "categoryStatus", "description", 
+            "recommendationReason", "rarityLabel", "imageUrl", "sources", 
+            "warnings", "notificationMeta", "toriComment", "updatedAt", "lastVerifiedAt"
+        ]
+        for field in required_fields:
+            if field not in item:
+                errors.append(f"Item '{item_id}' misses required field: '{field}'")
+
+        # dateInfo の必須チェック
+        if "dateInfo" in item and isinstance(item["dateInfo"], dict):
+            di = item["dateInfo"]
+            for f in ["startLocalDate", "endLocalDate", "displayDate"]:
+                if f not in di:
+                    errors.append(f"Item '{item_id}' misses dateInfo field: '{f}'")
+
+        # location の必須チェック
+        if "location" in item and isinstance(item["location"], dict):
+            loc = item["location"]
+            for f in ["prefecture", "areaName", "latitude", "longitude"]:
+                if f not in loc:
+                    errors.append(f"Item '{item_id}' misses location field: '{f}'")
+
+        # sources の必須チェック
+        if "sources" in item and isinstance(item["sources"], list):
+            for s_idx, src in enumerate(item["sources"]):
+                for f in ["name", "url", "sourceType", "lastVerifiedAt", "certaintyLabel", "isPrimary"]:
+                    if f not in src:
+                        errors.append(f"Source {s_idx} in Item '{item_id}' misses field: '{f}'")
+
+        # warnings の必須チェック
+        if "warnings" in item and isinstance(item["warnings"], list):
+            for w_idx, w in enumerate(item["warnings"]):
+                for f in ["label", "severity", "message"]:
+                    if f not in w:
+                        errors.append(f"Warning {w_idx} in Item '{item_id}' misses field: '{f}'")
+
+        # notificationMeta の必須チェック
+        if "notificationMeta" in item and isinstance(item["notificationMeta"], dict):
+            nm = item["notificationMeta"]
+            for f in ["notifyEnabled", "notificationTitle", "notificationBodyTemplate", "priority", "targetRegions"]:
+                if f not in nm:
+                    errors.append(f"Item '{item_id}' misses notificationMeta field: '{f}'")
         
         # タイトル
         title = item.get("title")
