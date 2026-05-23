@@ -2,10 +2,10 @@
   "validationSuccess": true,
   "validationErrors": [],
   "validationWarnings": [],
-  "runAt": "2026-05-23T19:17:47.651+09:00",
+  "runAt": "2026-05-23T14:37:26.185820",
   "summary": {
-    "dataVersion": "2026.05.23-004",
-    "generatedAt": "2026-05-23T19:17:22.404+09:00",
+    "dataVersion": "2026.05.23-005",
+    "generatedAt": "2026-05-23T14:37:26+09:00",
     "schemaVersion": "1.0",
     "totalItems": 69,
     "categoryCounts": {
