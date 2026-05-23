@@ -2,23 +2,23 @@
   "validationSuccess": true,
   "validationErrors": [],
   "validationWarnings": [],
-  "runAt": "2026-05-23T10:10:42.223062",
+  "runAt": "2026-05-23T19:17:47.651+09:00",
   "summary": {
-    "dataVersion": "2026.05.23-003",
-    "generatedAt": "2026-05-23T10:10:42+09:00",
+    "dataVersion": "2026.05.23-004",
+    "generatedAt": "2026-05-23T19:17:22.404+09:00",
     "schemaVersion": "1.0",
-    "totalItems": 55,
+    "totalItems": 69,
     "categoryCounts": {
       "SEASONAL_CUSTOM": 12,
       "ASTRONOMY": 7,
-      "NATURE": 17,
-      "EVENT": 19
+      "NATURE": 25,
+      "EVENT": 25
     },
     "statusCounts": {
-      "ENDED": 18,
-      "UPCOMING": 18,
-      "CHECKING": 19
+      "ENDED": 22,
+      "UPCOMING": 22,
+      "CHECKING": 25
     },
-    "checkingCount": 19
+    "checkingCount": 25
   }
 }

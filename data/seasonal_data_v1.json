@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.05.23-003",
-  "generatedAt": "2026-05-23T10:10:42+09:00",
+  "dataVersion": "2026.05.23-004",
+  "generatedAt": "2026-05-23T19:17:22.404+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -3885,6 +3885,1007 @@
       },
       "toriComment": "天気が良い日は、夕焼けの空に富士山の影が綺麗に見えるんだよ。富士山とキラキラの花畑が並ぶ景色はとっても贅沢……",
       "weatherComment": "夜は本当に寒いから、あったかいジンギスカンや牧場名物の温かいココアを飲んで風邪を引かないようにしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "tsuruma_park_sakura_2026",
+      "title": "鶴舞公園の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "park",
+        "scenery"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-24",
+        "endLocalDate": "2026-04-06",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "終日開放（ライトアップは18:00〜21:30頃）",
+        "startDate": "2026-03-24",
+        "endDate": "2026-04-06",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "愛知県",
+        "city": "名古屋市昭和区",
+        "areaName": "鶴舞公園",
+        "address": "愛知県名古屋市昭和区鶴舞１丁目",
+        "latitude": 35.1561,
+        "longitude": 136.9208,
+        "lat": 35.1561,
+        "lng": 136.9208,
+        "regionType": "spot",
+        "displayText": "愛知県名古屋市 鶴舞公園"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "「日本さくら名所100選」に選ばれている、名古屋市を代表する都市公園。園内には約750本のソメイヨシノが咲き誇り、夜間ライトアップされると、レトロな噴水塔や奏楽堂と調和した非常にロマンチックな夜桜が楽しめます。",
+      "recommendationReason": "名古屋で最も賑わうお花見名所で、ライトアップされた噴水塔と満開の夜桜の競演は一見の価値があります。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "名古屋コンシェルジュ（鶴舞公園の桜）",
+          "url": "https://www.nagoya-info.jp/spot/detail/85/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "非常に激しい混雑",
+          "severity": "high",
+          "message": "桜の満開時期や土日祝日は周辺道路および駐車場が極めて混雑します。地下鉄・JR鶴舞駅直結ですので、公共交通機関での来園を強くおすすめします。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-22",
+        "lastMinuteNotifyDate": "2026-03-28",
+        "notificationTitle": "鶴舞公園の桜が見頃だよ",
+        "notificationBodyTemplate": "鶴舞公園 of レトロな噴水塔と綺麗な桜が咲き誇っているよ……。夜桜のライトアップも幻想的だから見に行ってみる……？",
+        "priority": 2,
+        "targetRegions": [
+          "愛知県",
+          "岐阜県",
+          "三重県"
+        ]
+      },
+      "toriComment": "歴史ある噴水やドーム型の奏楽堂を包み込むように咲く桜が、まるでおとぎ話の国みたいできれいなんだよ……",
+      "weatherComment": "駅からすぐ近くだから、お仕事帰りの夜桜さんぽにもぴったりだね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "yamazakigawa_sakura_2026",
+      "title": "山崎川 四季の道の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "river",
+        "scenery"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-24",
+        "endLocalDate": "2026-04-06",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "終日散策自由（ライトアップ期間あり）",
+        "startDate": "2026-03-24",
+        "endDate": "2026-04-06",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "愛知県",
+        "city": "名古屋市瑞穂区",
+        "areaName": "山崎川（かなえ橋〜瑞穂大橋付近）",
+        "address": "愛知県名古屋市瑞穂区田辺通",
+        "latitude": 35.1265,
+        "longitude": 136.9423,
+        "lat": 35.1265,
+        "lng": 136.9423,
+        "regionType": "spot",
+        "displayText": "愛知県名古屋市 山崎川周辺"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "「日本さくら名所100選」に選ばれ、名古屋屈指 of 桜並木として知られる山崎川。川沿い約2.8kmにわたり約600本のソメイヨシノが咲き乱れ、特に「鼎小橋（かなえこばし）」付近のライトアップや川面にせり出す枝ぶりが非常に見事です。",
+      "recommendationReason": "美しい川の流れと、両岸から覆いかぶさるような静かで上品な桜のトンネルをお散歩するのに最適です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "名古屋市瑞穂区公式（山崎川の桜）",
+          "url": "https://www.city.nagoya.jp/mizuho/",
+          "sourceType": "municipality",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-22",
+        "lastMinuteNotifyDate": "2026-03-29",
+        "notificationTitle": "山崎川の桜並木が見頃を迎えているよ",
+        "notificationBodyTemplate": "名古屋の山崎川沿いにきれいな桜のトンネルができているみたいだよ……。鼎小橋からの眺めを歩きに行ってみる……？",
+        "priority": 2,
+        "targetRegions": [
+          "愛知県",
+          "岐阜県",
+          "三重県"
+        ]
+      },
+      "toriComment": "川のせせらぎを聞きながら、どこまでも続くピンクの並木道をのんびり歩くのがとても気持ちよくて大好き……",
+      "weatherComment": "お花見期間中はゴミ箱などが設置されないので、ゴミは必ずお持ち帰りくださいね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "korankei_koyo_2026",
+      "title": "香嵐渓の紅葉",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "scenery",
+        "valley"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-10",
+        "endLocalDate": "2026-11-30",
+        "displayDate": "11月中旬〜11月下旬",
+        "timeMemo": "終日散策自由（もみじまつり期間は日没〜21:00までライトアップ）",
+        "startDate": "2026-11-10",
+        "endDate": "2026-11-30",
+        "displayText": "11月中旬〜11月下旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "areaName": "香嵐渓（足助町）",
+        "address": "愛知県豊田市足助町飯盛",
+        "latitude": 35.1328,
+        "longitude": 137.3197,
+        "lat": 35.1328,
+        "lng": 137.3197,
+        "regionType": "spot",
+        "displayText": "愛知県豊田市 香嵐渓"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "香嵐渓（こうらんけい）は、東海地方屈指の紅葉名所。巴川沿いの参道や飯盛山を埋める約4,000本ものもみじが、赤や黄色に美しく染まります。夜間のライトアップでは、黄金色に照らされたもみじが巴川の水面に鮮やかに浮かび上がる絶景が広がります。",
+      "recommendationReason": "巴川にかかる待月橋（赤い橋）ともみじの美しいコラボレーションや、夜間の黄金色にきらめく紅葉は必見です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "豊田市足助観光協会",
+          "url": "http://asuke.info/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "極度の渋滞・寒冷注意",
+          "severity": "high",
+          "message": "紅葉シーズンの週末は国道153号線が深刻な大渋滞となります。また、山間の川沿いにあり日没後は急激に冷え込みますので、万全の防寒対策をしてください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-08",
+        "lastMinuteNotifyDate": "2026-11-15",
+        "notificationTitle": "香嵐渓の紅葉が見頃だよ",
+        "notificationBodyTemplate": "愛知県豊田市の香嵐渓が、赤や黄金色のもみじで埋め尽くされているよ……。川沿いの素晴らしい紅葉を見にいこう……",
+        "priority": 2,
+        "targetRegions": [
+          "愛知県",
+          "静岡県",
+          "岐阜県",
+          "三重県"
+        ]
+      },
+      "toriComment": "お山全体がもみじの赤や黄色に染まって、まるで燃えているみたいに綺麗だよ。待月橋の上から見る巴川もすごく風情があるの……",
+      "weatherComment": "夜は本当に冷え込むから、温かい五平餅や足助の名物「しし汁」を食べて体を温めてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "nagoya_port_fireworks_2026",
+      "title": "名古屋みなと祭 奉納花火大会",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "crowd_attention"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-07-20",
+        "endLocalDate": "2026-07-20",
+        "displayDate": "7月20日（海の日・予定）",
+        "timeMemo": "19:30〜20:30頃",
+        "startDate": "2026-07-20",
+        "endDate": "2026-07-20",
+        "displayText": "7月20日（海の日・予定）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "愛知県",
+        "city": "名古屋市港区",
+        "areaName": "名古屋港ガーデンふ頭",
+        "address": "愛知県名古屋市港区港町１−１",
+        "latitude": 35.0924,
+        "longitude": 136.8791,
+        "lat": 35.0924,
+        "lng": 136.8791,
+        "regionType": "spot",
+        "displayText": "愛知県名古屋市 名古屋港周辺"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "名古屋の夏の訪れを告げる「海の日名古屋みなと祭」のクライマックスを飾る花火大会。名古屋港の夜空に、音楽とシンクロして打ち上がるメロディー花火や大迫力のスターマイン、ラストを飾る創作花火などが豪華に展開されます。",
+      "recommendationReason": "海風を感じながら、名古屋港のガーデンふ頭から見上げる音楽と融合した見事な花火を楽しめます。",
+      "rarityLabel": "夏の一大イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "海の日名古屋みなと祭公式ホームページ",
+          "url": "http://www.nagoya-port-festival.com/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "周辺の交通規制と大混雑",
+          "severity": "high",
+          "message": "花火終了後の地下鉄「名古屋港駅」は大変な混雑となり入場規制が行われます。隣の築地口駅まで歩くか、あらかじめICカードのチャージをお済ませください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-15",
+        "lastMinuteNotifyDate": "2026-07-20",
+        "notificationTitle": "今夜は名古屋みなと祭花火大会だよ",
+        "notificationBodyTemplate": "今夜は名古屋港でみなと祭の花火が打ち上がるよ……。音楽と一緒にはじけるきれいな花火を見に行ってみる……？",
+        "priority": 1,
+        "targetRegions": [
+          "愛知県",
+          "三重県",
+          "岐阜県"
+        ]
+      },
+      "toriComment": "夜の海の上に大きな花火がパッと開くんだよ。音が港のビルに響いて大迫力だから、ちょっとびっくりしちゃうかも……",
+      "weatherComment": "海の近くで蒸し暑いから、しっかり冷たい飲み物を持っておでかけしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "nagoya_ekimae_illumination_2026",
+      "title": "名古屋駅周辺 イルミネーション",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "town"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-11",
+        "endLocalDate": "2027-01-10",
+        "displayDate": "11月中旬〜翌年1月上旬（予定）",
+        "timeMemo": "点灯時間 17:00〜22:30頃",
+        "startDate": "2026-11-11",
+        "endDate": "2027-01-10",
+        "displayText": "11月中旬〜翌年1月上旬（予定）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "areaName": "名古屋駅前・名駅通り沿い",
+        "address": "愛知県名古屋市中村区名駅１丁目",
+        "latitude": 35.1709,
+        "longitude": 136.8815,
+        "lat": 35.1709,
+        "lng": 136.8815,
+        "regionType": "spot",
+        "displayText": "愛知県名古屋市 名古屋駅前"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "名古屋駅前のビル群や名駅通りが数万球のLEDでロマンチックに彩られる冬のイルミネーション。JRセントラルタワーズやJRゲートタワーの巨大なクリスマスツリーをはじめ、大通りの街路樹がきらめく並木道に変身します。",
+      "recommendationReason": "ショッピングやお仕事帰りに、駅の改札を出てすぐに満喫できる手軽で華やかな光のイベントです。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "名古屋コンシェルジュ（冬のイルミネーション）",
+          "url": "https://www.nagoya-info.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-09",
+        "lastMinuteNotifyDate": "2026-11-11",
+        "notificationTitle": "名古屋駅前がイルミネーションで光り輝くよ",
+        "notificationBodyTemplate": "名駅の周りがきれいな光の街に変身するよ……。お買い物やお仕事帰りに、ちょこっと並木道を歩いてみる……？",
+        "priority": 1,
+        "targetRegions": [
+          "愛知県",
+          "岐阜県",
+          "三重県"
+        ]
+      },
+      "toriComment": "ゲートタワーの大きなクリスマスツリーはとっても高さがあって圧倒されちゃうね。近くで見るとキラキラですごいの……",
+      "weatherComment": "ビル風が強くて寒い通りもあるから、マフラーや手袋をして暖かくして歩こうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "osaka_castle_sakura_2026",
+      "title": "大阪城公園の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "park",
+        "castle"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-22",
+        "endLocalDate": "2026-04-06",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "西の丸庭園は 9:00〜17:00（観桜ナイター期間は延長あり）",
+        "startDate": "2026-03-22",
+        "endDate": "2026-04-06",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "areaName": "大阪城公園（西の丸庭園など）",
+        "address": "大阪府大阪市中央区大阪城２",
+        "latitude": 34.6873,
+        "longitude": 135.5262,
+        "lat": 34.6873,
+        "lng": 135.5262,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 大阪城公園"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "約3,000本の桜が広大な公園内を美しく彩る、大阪屈指の桜の名所。特に重要文化財に囲まれた「西の丸庭園」には、ソメイヨシノを中心に約300本の桜があり、ライトアップされた大阪城天守閣と満開の桜の競演は見事な美しさです。",
+      "recommendationReason": "そびえ立つ大阪城天守閣と、お濠を取り囲む薄ピンクの美しい桜が織りなす荘厳な景色を楽しめます。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "大阪城公園センター",
+          "url": "https://www.osakacastlepark.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-19",
+        "lastMinuteNotifyDate": "2026-03-25",
+        "notificationTitle": "大阪城天守閣と桜が見頃だよ",
+        "notificationBodyTemplate": "大阪城公園の天守閣の周りに綺麗な桜がたくさん咲いているよ……。お濠沿いをお散歩してみる……？",
+        "priority": 2,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "奈良県"
+        ]
+      },
+      "toriComment": "白いお城と桜のピンクの組み合わせは、とても品があってかっこいいんだよ。お濠に映る夜桜もすてきだよ……",
+      "weatherComment": "園内はすごく広いから、歩きやすいスニーカーでおでかけしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "mint_museum_sakura_2026",
+      "title": "造幣局 桜の通り抜け",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "scenery",
+        "special_experience"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-04-05",
+        "endLocalDate": "2026-04-11",
+        "displayDate": "4月上旬〜4月中旬の1週間限定",
+        "timeMemo": "平日 10:00〜19:30、土日 9:00〜19:30（要事前申込）",
+        "startDate": "2026-04-05",
+        "endDate": "2026-04-11",
+        "displayText": "4月上旬〜4月中旬の1週間限定",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "areaName": "独立行政法人造幣局（淀川沿い）",
+        "address": "大阪府大阪市北区天満１丁目１−７９",
+        "latitude": 34.6946,
+        "longitude": 135.5222,
+        "lat": 34.6946,
+        "lng": 135.5222,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 造幣局周辺"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "大阪の春の風物詩。造幣局敷地内の約560mの通路を、ソメイヨシノより遅れて咲く八重桜（約140品種、約340本）を観賞しながら一方通行で通り抜けます。珍しい品種が豊富で、ポンポンのように丸く咲く圧倒的なボリューム感が特徴です。",
+      "recommendationReason": "1週間しか開放されない大変貴重なイベント。他では見られない多種多様な美しい八重桜が目の前に迫ります。",
+      "rarityLabel": "超限定イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "独立行政法人造幣局（桜の通り抜け案内）",
+          "url": "https://www.mint.go.jp/event/sakura_information.html",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "事前予約制と一方通行ルール",
+          "severity": "high",
+          "message": "「桜の通り抜け」への入場にはインターネットでの事前予約（先着順）が必要です。また、南門から北門への一方通行となり、逆行や立ち止まりは制限されています。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-04-01",
+        "lastMinuteNotifyDate": "2026-04-05",
+        "notificationTitle": "造幣局「桜の通り抜け」が始まるよ",
+        "notificationBodyTemplate": "大阪の造幣局で1週間限定の「桜の通り抜け」が始まるよ……。事前予約したチケットを忘れずに持っていってね……",
+        "priority": 2,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "奈良県"
+        ]
+      },
+      "toriComment": "いつもの桜と違って、八重桜は花の形がフリルみたいに何枚も重なっていて、すごくまあるくてかわいいんだよ……",
+      "weatherComment": "大川の河川敷もお花見の屋台などが出ていて歩くだけでも楽しいエリアだよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "midosuji_koyo_2026",
+      "title": "御堂筋のイチョウ並木",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "scenery",
+        "town"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-15",
+        "endLocalDate": "2026-12-10",
+        "displayDate": "11月中旬〜12月上旬",
+        "timeMemo": "終日開放（夜間はイルミネーションあり）",
+        "startDate": "2026-11-15",
+        "endDate": "2026-12-10",
+        "displayText": "11月中旬〜12月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市北区〜中央区",
+        "areaName": "御堂筋（淀屋橋〜難波間）",
+        "address": "大阪府大阪市中央区御堂筋",
+        "latitude": 34.6732,
+        "longitude": 135.5016,
+        "lat": 34.6732,
+        "lng": 135.5016,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 御堂筋通り"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "大阪のメインストリート・御堂筋を南北約4kmにわたって黄金色に染め上げるイチョウ並木。約970本の街路樹が見事な黄葉を迎え、レトロな近代建築や高層ビル群を背景に美しい都市の秋を描きます。",
+      "recommendationReason": "ショッピングがてらに歩ける都会的な美しさ。足元に広がる黄色いイチョウの絨毯も素敵です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "大阪観光局（御堂筋のイチョウ並木）",
+          "url": "https://osaka-info.jp/spot/midosuji-ginkgo-trees/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-13",
+        "lastMinuteNotifyDate": "2026-11-20",
+        "notificationTitle": "御堂筋のイチョウが黄色く色づいているよ",
+        "notificationBodyTemplate": "大阪のメインストリートのイチョウ並木が見頃だよ……。歩道をゆっくり歩いて、黄金色の景色を楽しもう……",
+        "priority": 2,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府"
+        ]
+      },
+      "toriComment": "都会のど真ん中に、まっ黄色な並木の道がずっと続いているのは圧巻だね。ヒラヒラと舞い散る黄色い葉っぱもきれいなの……",
+      "weatherComment": "梅田から難波まで歩くのは結構距離があるから、地下鉄もうまく使いながら歩いてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "mino_falls_koyo_2026",
+      "title": "箕面大滝の紅葉",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "scenery",
+        "waterfall"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-14",
+        "endLocalDate": "2026-12-06",
+        "displayDate": "11月中旬〜12月上旬",
+        "timeMemo": "終日開放（滝周辺は夜間ライトアップ期間あり）",
+        "startDate": "2026-11-14",
+        "endDate": "2026-12-06",
+        "displayText": "11月中旬〜12月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "箕面市",
+        "areaName": "明治の森箕面国定公園",
+        "address": "大阪府箕面市箕面公園",
+        "latitude": 34.8488,
+        "longitude": 135.4741,
+        "lat": 34.8488,
+        "lng": 135.4741,
+        "regionType": "spot",
+        "displayText": "大阪府箕面市 箕面大滝"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "「日本の滝百選」に選ばれている名瀑・箕面大滝。落差33mの大滝の前に真っ赤なもみじが映える姿は、まさに絵画のような絶景です。滝へと続く渓流沿いの遊歩道（滝道）も、もみじの赤い天井に包まれながらマイナスイオンたっぷりの中を歩けます。",
+      "recommendationReason": "ダイナミックな滝の音と、鮮やかな赤いもみじが織りなす関西トップクラスの渓谷美を散策できます。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "箕面市観光協会",
+          "url": "https://minohkankou.net/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "歩きやすい靴の推奨・混雑注意",
+          "severity": "medium",
+          "message": "最寄り駅の箕面駅から大滝までは、なだらかな上り坂を約40分（約2.7km）歩く必要があります。ハイヒール等は避け、歩きやすいスニーカーでおでかけください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-11",
+        "lastMinuteNotifyDate": "2026-11-18",
+        "notificationTitle": "箕面大滝の紅葉が綺麗だよ",
+        "notificationBodyTemplate": "大阪の箕面大滝の周りのもみじが赤く染まっているよ……。滝のせせらぎを聞きながらお散歩してみてはどうかな……",
+        "priority": 2,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "奈良県"
+        ]
+      },
+      "toriComment": "白い滝の水しぶきと、その前に伸びる真っ赤なもみじのコントラストがとても素敵。滝道で売っている名物「もみじの天ぷら」も香ばしくて大好きなの……",
+      "weatherComment": "滝の近くは水しぶきと日陰で冷え込むから、ウインドブレーカーなど羽織るものを持っていこうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "tenjin_matsuri_fireworks_2026",
+      "title": "天神祭 奉納花火",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "traditional"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-07-25",
+        "endLocalDate": "2026-07-25",
+        "displayDate": "7月25日",
+        "timeMemo": "19:30〜21:00頃",
+        "startDate": "2026-07-25",
+        "endDate": "2026-07-25",
+        "displayText": "7月25日",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市北区・都島区",
+        "areaName": "川崎公園・桜之宮公園（大川沿い）",
+        "address": "大阪府大阪市都島区中野町１丁目",
+        "latitude": 34.6997,
+        "longitude": 135.5226,
+        "lat": 34.6997,
+        "lng": 135.5226,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 大川周辺"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "日本三大祭りの一つ「大阪天神祭」のクライマックスを飾る奉納花火。大川を行き交う100隻以上の船（船渡御）の灯りと、約3,000発の夜空に打ち上がる奉納花火が織りなす火と水の美しい祭典。天神様を象徴するオリジナル花火「紅梅」も注目です。",
+      "recommendationReason": "歴史あるお祭りの賑わいと、水面を走る多くの船燈、そして夜空を彩る大迫力の花火のコラボレーションを楽しめます。",
+      "rarityLabel": "夏の一大イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "大阪天満宮（天神祭公式案内）",
+          "url": "https://osakatemmangu.or.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（日程固定の恒例行事）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "極度の混雑と熱中症注意",
+          "severity": "high",
+          "message": "花火の打上会場周辺および最寄りのJR桜ノ宮駅、天満橋駅は数万人の観客で麻痺するほどの混雑になります。川沿いの道は一方通行規制が行われますのでご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-20",
+        "lastMinuteNotifyDate": "2026-07-25",
+        "notificationTitle": "今夜は天神祭の奉納花火だよ",
+        "notificationBodyTemplate": "今夜は大阪天神祭の奉納花火だよ……。大川をゆれるたくさんの船の灯りと夜空に咲く花火が素晴らしいね……",
+        "priority": 1,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "奈良県"
+        ]
+      },
+      "toriComment": "大川の船の提灯の光と、お空の花火の光が水面に反射してすごくキラキラするんだよ。大阪の夏の最高潮って感じのお祭りだね……",
+      "weatherComment": "とても蒸し暑くて混むから、団扇や飲み物をしっかり準備していこうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "yodogawa_fireworks_2026",
+      "title": "なにわ淀川花火大会",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "crowd_attention"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-08-01",
+        "endLocalDate": "2026-08-01",
+        "displayDate": "8月1日（予定）",
+        "timeMemo": "19:30〜20:30頃",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "displayText": "8月1日（予定）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市淀川区",
+        "areaName": "淀川河川敷（新御堂筋鉄橋から下流）",
+        "address": "大阪府大阪市淀川区新北野３丁目",
+        "latitude": 34.7067,
+        "longitude": 135.4839,
+        "lat": 34.7067,
+        "lng": 135.4839,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 淀川河川敷"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "大阪の夏最大級の規模を誇る、市民ボランティアによる手作りの花火大会。淀川の広い川幅を存分に生かしたワイドスターマインや、水面近くで半球状に花開く大迫力の水中スターマインなど、途切れることのない圧倒的な演出スピードが特徴です。",
+      "recommendationReason": "視界すべてを覆い尽くすかのような、淀川の夜空に連発される大迫力の大空中ナイアガラを楽しめます。",
+      "rarityLabel": "夏の一大イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "なにわ淀川花火大会運営委員会",
+          "url": "https://www.yodohanabi.com/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（例年8月第1土曜開催ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "梅田側河川敷の完全有料化",
+          "severity": "high",
+          "message": "近年、大混雑による事故防止のため梅田側（南側）の河川敷は完全有料の観覧席のみとなっています。無料の一般観覧は淀川区側（北側・十三側）のみとなりますので事前に観覧場所をご確認ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-28",
+        "lastMinuteNotifyDate": "2026-08-01",
+        "notificationTitle": "今夜はなにわ淀川花火大会だよ",
+        "notificationBodyTemplate": "今夜は淀川の夜空に大迫力の花火が打ち上がるよ……。視界いっぱいに咲く大空中ナイアガラを体験してみる……？",
+        "priority": 1,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "滋賀県"
+        ]
+      },
+      "toriComment": "淀川いっぱいに広がる水中スターマインが本当にすごいの！水面にうつる光と音が体にドンドン響いて、胸が熱くなっちゃう……",
+      "weatherComment": "終わった後の十三駅は身動きが取れないほど混むから、あらかじめ帰り道の避難経路を確認しておこうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "osaka_hikari_renaissance_2026",
+      "title": "OSAKA光のルネサンス",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "town"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-12-14",
+        "endLocalDate": "2026-12-25",
+        "displayDate": "12月14日〜12月25日（予定）",
+        "timeMemo": "一部コンテンツは17:00〜22:00頃点灯",
+        "startDate": "2026-12-14",
+        "endDate": "2026-12-25",
+        "displayText": "12月14日〜12月25日（予定）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "areaName": "大阪市役所周辺・中之島公園",
+        "address": "大阪府大阪市北区中之島１丁目",
+        "latitude": 34.6934,
+        "longitude": 135.5029,
+        "lat": 34.6934,
+        "lng": 135.5029,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 中之島周辺"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "「大阪・光の饗宴」のコアプログラムとして、水都大阪のシンボル中之島で開催される光のフェスティバル。歴史的建造物である「大阪市中央公会堂」の壁面をキャンバスにした壮大なプロジェクションマッピングや、中之島公園を彩る光の並木道、グルメ市など見どころ満載です。",
+      "recommendationReason": "ライトアップされた美しい歴史的公会堂のプロジェクションマッピングと、水辺のロマンチックな光の演出を楽しめます。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "大阪・光の饗宴実行委員会公式",
+          "url": "https://www.hikari-kyoen.com/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（例年12月中旬開催ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "公会堂周辺の混雑と通路規制",
+          "severity": "medium",
+          "message": "中央公会堂のプロジェクションマッピング上演時間は、周辺の遊歩道が大変混雑し一方通行となる時間帯があります。誘導スタッフの指示に従ってご観覧ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-12-11",
+        "lastMinuteNotifyDate": "2026-12-14",
+        "notificationTitle": "OSAKA光のルネサンスが開催されるよ",
+        "notificationBodyTemplate": "中之島の中央公会堂にきれいなプロジェクションマッピングが映し出されるよ……。水辺の幻想的な光の街を歩いてみよう……",
+        "priority": 1,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "奈良県"
+        ]
+      },
+      "toriComment": "大正時代に建てられた中央公会堂に、お星さまやカラフルな映像がパッと映る姿がとっても大好きなの。レトロで素敵な夜だよ……",
+      "weatherComment": "水辺は風があってかなり冷え込むから、温かいスープなどを飲みながら暖かくして歩こうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "midosuji_illumination_2026",
+      "title": "御堂筋 イルミネーション",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "town"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-03",
+        "endLocalDate": "2026-12-31",
+        "displayDate": "11月上旬〜12月31日（予定）",
+        "timeMemo": "点灯時間 17:00〜23:00頃",
+        "startDate": "2026-11-03",
+        "endDate": "2026-12-31",
+        "displayText": "11月上旬〜12月31日（予定）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "大阪府",
+        "city": "大阪市北区〜中央区",
+        "areaName": "御堂筋（阪神前交差点〜難波西口交差点付近）",
+        "address": "大阪府大阪市中央区御堂筋",
+        "latitude": 34.685,
+        "longitude": 135.5015,
+        "lat": 34.685,
+        "lng": 135.5015,
+        "regionType": "spot",
+        "displayText": "大阪府大阪市 御堂筋"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "「大阪・光の饗宴」の代表的プログラムで、ギネス世界記録にも認定された世界的なスケールの光のストリート。大阪のシンボルロードである御堂筋の約4kmを区間ごとに異なるカラー（ピンク、水色、ゴールドなど）で幻想的にライトアップし、光の道で街を繋ぎます。",
+      "recommendationReason": "どこまでも続く美しく巨大な光の回廊。区間ごとに変わる華やかでカラフルな色彩に引き込まれます。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "大阪・光の饗宴実行委員会公式（御堂筋）",
+          "url": "https://www.hikari-kyoen.com/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（例年11月上旬開催ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-10-30",
+        "lastMinuteNotifyDate": "2026-11-03",
+        "notificationTitle": "御堂筋イルミネーションが始まるよ",
+        "notificationBodyTemplate": "大阪の御堂筋が世界的な光の道に変身するよ……。さまざまな色のイルミネーションを歩いて満階しようね……",
+        "priority": 1,
+        "targetRegions": [
+          "大阪府",
+          "兵庫県",
+          "京都府",
+          "奈良県"
+        ]
+      },
+      "toriComment": "梅田からミナミまでずっとずっと光のトンネルが続いているんだよ。ピンクからブルーへグラデーションしていくのがトリのいちおし……",
+      "weatherComment": "お散歩の際はしっかりとマフラーなどで首元を温めて、冷たいビル風に気をつけてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "rikugien_koyo_2026",
+      "title": "六義園の紅葉",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "garden",
+        "traditional"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-20",
+        "endLocalDate": "2026-12-10",
+        "displayDate": "11月下旬〜12月上旬",
+        "timeMemo": "開園時間 9:00〜17:00（ライトアップ期間は夜間特別開園あり）",
+        "startDate": "2026-11-20",
+        "endDate": "2026-12-10",
+        "displayText": "11月下旬〜12月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "文京区",
+        "areaName": "六義園",
+        "address": "東京都文京区本駒込６丁目１６−３",
+        "latitude": 35.7332,
+        "longitude": 139.7464,
+        "lat": 35.7332,
+        "lng": 139.7464,
+        "regionType": "spot",
+        "displayText": "東京都文京区 六義園"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "江戸大名庭園の代表格である回遊式築山泉水庭園。秋になると、約400本のイロハモミジやドウダンツツジが庭園を鮮やかな赤や黄色に彩ります。夜間特別観賞では、ライトに浮かび上がる美しい和の紅葉と鏡のような池の水面が、別世界のような幻想空間を創り出します。",
+      "recommendationReason": "都心で極上の大名庭園美を感じながら、静かでおごそかな和のライトアップ紅葉を楽しめます。",
+      "rarityLabel": "季節の定番",
+      "warning": [],
+      "sources": [
+        {
+          "name": "東京都公園協会（公園へ行こう！六義園）",
+          "url": "https://www.tokyo-park.or.jp/park/format/index031.html",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "夜間観賞の専用チケットと混雑",
+          "severity": "high",
+          "message": "夜間の特別ライトアップ時間帯の入場には、事前に「夜間特別観賞券」のオンライン購入が必要です。通常開園時の切符では入場できませんのでご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-18",
+        "lastMinuteNotifyDate": "2026-11-25",
+        "notificationTitle": "六義園の庭園紅葉が見頃だよ",
+        "notificationBodyTemplate": "文京区の六義園で、イロハモミジなどが美しく色づいているよ……。ライトに照らされる幻想的な大名庭園に行ってみる……？",
+        "priority": 2,
+        "targetRegions": [
+          "東京都",
+          "埼玉県",
+          "千葉県",
+          "神奈川県"
+        ]
+      },
+      "toriComment": "池の水面に真っ赤な紅葉が鏡みたいにピタッと映るのが、とっても美しくて静かで大好きな場所なんだ……",
+      "weatherComment": "駒込駅から歩いてすぐなので、電車でのアクセスがとても便利だよ……",
       "updatedAt": "2026-05-23T12:00:00+09:00",
       "lastVerifiedAt": "2026-05-23"
     }
