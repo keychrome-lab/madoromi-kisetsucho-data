@@ -1,0 +1,110 @@
+[
+  {
+    "id": "nao_koyomi",
+    "name": "国立天文台 暦計算室",
+    "url": "https://eco.mtk.nao.ac.jp/koyomi/",
+    "sourceType": "astronomy_authority",
+    "category": "ASTRONOMY",
+    "subCategory": "meteor_shower,lunar_eclipse,solar_eclipse",
+    "region": "全国",
+    "trustLevel": "primary",
+    "fetchMode": "static_calendar",
+    "notes": "日本の天体暦・節気・祝日の最も正確な一次ソース情報源。"
+  },
+  {
+    "id": "naoj_sky",
+    "name": "国立天文台 ほしぞら情報",
+    "url": "https://www.nao.ac.jp/astro/sky/",
+    "sourceType": "astronomy_authority",
+    "category": "ASTRONOMY",
+    "subCategory": "meteor_shower,lunar_eclipse,solar_eclipse",
+    "region": "全国",
+    "trustLevel": "primary",
+    "fetchMode": "html_check",
+    "notes": "流星群や月食などの詳細な観測条件・極大時刻の確認に使用。"
+  },
+  {
+    "id": "cao_shukujitsu",
+    "name": "内閣府 国民の祝日について",
+    "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+    "sourceType": "municipality",
+    "category": "SEASONAL_CUSTOM",
+    "subCategory": "childrens_day",
+    "region": "全国",
+    "trustLevel": "primary",
+    "fetchMode": "static_calendar",
+    "notes": "国民の祝日に関する法律に基づいた公式祝日データ。"
+  },
+  {
+    "id": "tenki_jp_sakura",
+    "name": "tenki.jp 桜開花予想",
+    "url": "https://tenki.jp/sakura/expectation/",
+    "sourceType": "weather_company",
+    "category": "NATURE",
+    "subCategory": "cherry_blossom",
+    "region": "全国",
+    "trustLevel": "secondary",
+    "fetchMode": "html_check",
+    "notes": "日本気象協会による桜の開花・満開予想情報。"
+  },
+  {
+    "id": "weathernews_koyo",
+    "name": "ウェザーニュース 紅葉情報",
+    "url": "https://weathernews.jp/s/koyo/",
+    "sourceType": "weather_company",
+    "category": "NATURE",
+    "subCategory": "autumn_leaves",
+    "region": "全国",
+    "trustLevel": "secondary",
+    "fetchMode": "html_check",
+    "notes": "紅葉の見頃予想・実況情報。"
+  },
+  {
+    "id": "tokyo_tourism",
+    "name": "GO TOKYO（東京観光公式サイト）",
+    "url": "https://www.gotokyo.org/ja/",
+    "sourceType": "tourism_association",
+    "category": "EVENT",
+    "subCategory": "fireworks,illumination",
+    "region": "東京都",
+    "trustLevel": "primary",
+    "fetchMode": "html_check",
+    "notes": "都内主要イベント、花火大会、ライトアップ情報。"
+  },
+  {
+    "id": "saitama_tourism",
+    "name": "ちょこたび埼玉（埼玉県観光公式サイト）",
+    "url": "https://chocotabi-saitama.jp/",
+    "sourceType": "tourism_association",
+    "category": "EVENT",
+    "subCategory": "fireworks,illumination",
+    "region": "埼玉県",
+    "trustLevel": "primary",
+    "fetchMode": "html_check",
+    "notes": "埼玉県内主要イベント、花火大会情報。"
+  },
+  {
+    "id": "kanagawa_tourism",
+    "name": "観光かながわNOW（神奈川県観光公式サイト）",
+    "url": "https://www.kanagawa-kankou.or.jp/",
+    "sourceType": "tourism_association",
+    "category": "EVENT",
+    "subCategory": "fireworks,illumination",
+    "region": "神奈川県",
+    "trustLevel": "primary",
+    "fetchMode": "html_check",
+    "notes": "神奈川県内主要イベント、花火大会情報。"
+  },
+  {
+    "id": "chiba_tourism",
+    "name": "まるごとe! ちば（千葉県観光物産協会）",
+    "url": "https://maruchiba.jp/",
+    "sourceType": "tourism_association",
+    "category": "EVENT",
+    "subCategory": "fireworks,illumination",
+    "region": "千葉県",
+    "trustLevel": "primary",
+    "fetchMode": "html_check",
+    "notes": "千葉県内主要イベント、花火大会情報。"
+  }
+]

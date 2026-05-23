@@ -1,0 +1,24 @@
+{
+  "validationSuccess": true,
+  "validationErrors": [],
+  "validationWarnings": [],
+  "runAt": "2026-05-23T18:31:59.373+09:00",
+  "summary": {
+    "dataVersion": "2026.05.23-002",
+    "generatedAt": "2026-05-23T18:31:27.665+09:00",
+    "schemaVersion": "1.0",
+    "totalItems": 55,
+    "categoryCounts": {
+      "SEASONAL_CUSTOM": 12,
+      "ASTRONOMY": 7,
+      "NATURE": 17,
+      "EVENT": 19
+    },
+    "statusCounts": {
+      "ENDED": 18,
+      "UPCOMING": 18,
+      "CHECKING": 19
+    },
+    "checkingCount": 19
+  }
+}

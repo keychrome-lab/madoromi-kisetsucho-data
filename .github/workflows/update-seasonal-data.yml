@@ -1,0 +1,47 @@
+name: Update and Validate Seasonal Data
+
+on:
+  schedule:
+    # 毎週月曜日の日本時間 午前9:00頃 (UTC 午前0:00頃) に実行
+    # GitHub Actionsの仕様上、数分から数十分の遅延が発生することがあります
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+    # GitHubの管理画面から手動で即時実行可能
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # 依存ライブラリはないがキャッシュ設定を入れておく
+
+      - name: Run Update Script
+        run: python scripts/update_seasonal_data.py
+
+      - name: Run Validation Script (Final Check)
+        run: python scripts/validate_seasonal_data.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 変更があるか確認
+          git add data/seasonal_data_v1.json data/update_report.json
+          
+          if git diff --cached --quiet; then
+            echo "No changes in seasonal data."
+          else
+            git commit -m "Auto-update seasonal data [skip ci]"
+            git push origin main
+          fi

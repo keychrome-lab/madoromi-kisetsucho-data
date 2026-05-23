@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.05.23-001",
-  "generatedAt": "2026-05-23T12:00:00+09:00",
+  "dataVersion": "2026.05.23-002",
+  "generatedAt": "2026-05-23T18:31:27.665+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -10,7 +10,10 @@
       "title": "初日の出",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "first_sunrise",
-      "tags": ["morning", "new_year"],
+      "tags": [
+        "morning",
+        "new_year"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-01-01",
         "endLocalDate": "2026-01-01",
@@ -64,7 +67,9 @@
         "notificationTitle": "もうすぐ初日の出だよ",
         "notificationBodyTemplate": "新しい一年の最初の日の出、見られるといいね……。早起きできるように準備しておこうね……",
         "priority": 3,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "新しい年の最初の朝だね。静かにのぼる太陽を見ていると、なんだか背筋が伸びる気がするよ……",
       "weatherComment": "とても寒いから、マフラーと手袋は絶対に忘れないでね……",
@@ -76,7 +81,10 @@
       "title": "節分",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "setsubun",
-      "tags": ["home", "traditional"],
+      "tags": [
+        "home",
+        "traditional"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-02-03",
         "endLocalDate": "2026-02-03",
@@ -130,7 +138,9 @@
         "notificationTitle": "今日は節分だよ",
         "notificationBodyTemplate": "今日は節分だから、おうちに福を呼び込もうね……。豆まきのごはんは用意したかな……",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "「鬼は外、福は内」って豆をまく音が聞こえてくるね。みんなのところにたくさんの福がやってくるといいな……",
       "weatherComment": "夜は冷えるから、暖かいお部屋でゆっくり豆を食べてね……",
@@ -142,7 +152,10 @@
       "title": "こどもの日（端午の節句）",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "childrens_day",
-      "tags": ["holiday", "family"],
+      "tags": [
+        "holiday",
+        "family"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-05-05",
         "endLocalDate": "2026-05-05",
@@ -190,7 +203,9 @@
         "notificationTitle": "今日はこどもの日だよ",
         "notificationBodyTemplate": "今日はこどもの日。柏餅を食べたり、ゆっくり菖蒲湯に入って休もうね……",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "屋根より高い鯉のぼり、気持ちよさそうにパタパタ泳いでいるよ。みんな元気に大きくなってね……",
       "weatherComment": "お風呂に菖蒲の葉を浮かべて入ると、体がぽかぽか温まるよ……",
@@ -202,7 +217,10 @@
       "title": "七夕",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "tanabata",
-      "tags": ["night", "traditional"],
+      "tags": [
+        "night",
+        "traditional"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-07-07",
         "endLocalDate": "2026-07-07",
@@ -250,7 +268,9 @@
         "notificationTitle": "今日は七夕だよ",
         "notificationBodyTemplate": "今夜は七夕だね……。笹に願い事を飾ったり、夜空を見上げてみたりする……？",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "カラフルな短冊がたくさん笹にゆれてるね。みんなの願い事、織姫さますちに届きますように……",
       "weatherComment": "七夕の時期は梅雨のこともあるから、雲のすき間から星が見えるといいな……",
@@ -262,7 +282,10 @@
       "title": "中秋の名月",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "harvest_moon",
-      "tags": ["night", "moon"],
+      "tags": [
+        "night",
+        "moon"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-09-25",
         "endLocalDate": "2026-09-25",
@@ -310,7 +333,9 @@
         "notificationTitle": "今夜は中秋の名月だよ",
         "notificationBodyTemplate": "今夜はとてもきれいな月が見られるかも……。お団子を食べながらゆっくりお月見しようね……",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "今夜のお月さまは特別にまるくて明るいね。美味しいお団子を用意して、のんびり眺めよう……",
       "weatherComment": "秋 of 夜風は少し冷えるから、肩に何かはおってお月見してね……",
@@ -322,7 +347,9 @@
       "title": "夏至",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "summer_solstice",
-      "tags": ["traditional"],
+      "tags": [
+        "traditional"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-06-21",
         "endLocalDate": "2026-06-21",
@@ -370,7 +397,9 @@
         "notificationTitle": "今日は夏至だよ",
         "notificationBodyTemplate": "今日は一年で一番お昼が長い夏至だよ……。夕方になってもまだ明るくて不思議な気持ちになるね……",
         "priority": 1,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "お昼の時間が一番長い日だね。お外がずっと明るいから、なんだか得した気分になっちゃうな……",
       "weatherComment": "梅雨の晴れ間なら夕焼けがとても綺麗に見えるかもしれないよ……",
@@ -382,7 +411,10 @@
       "title": "冬至",
       "category": "SEASONAL_CUSTOM",
       "subCategory": "winter_solstice",
-      "tags": ["traditional", "home"],
+      "tags": [
+        "traditional",
+        "home"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-12-22",
         "endLocalDate": "2026-12-22",
@@ -430,7 +462,9 @@
         "notificationTitle": "今日は冬至だよ",
         "notificationBodyTemplate": "今日は一年で一番夜が長い冬至だよ……。柚子湯に入って体をしっかり温めてね……",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "夜が一番長い日。ゆずをいっぱいお風呂に浮かべて、ぬくぬく温まるのが最高だよ……",
       "weatherComment": "とても寒い夜だから、お風呂上がりはすぐに暖かくして眠ってね……",
@@ -442,7 +476,10 @@
       "title": "しぶんぎ座流星群",
       "category": "ASTRONOMY",
       "subCategory": "meteor_shower",
-      "tags": ["night", "meteor"],
+      "tags": [
+        "night",
+        "meteor"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-01-03",
         "endLocalDate": "2026-01-04",
@@ -497,7 +534,9 @@
         "notificationTitle": "しぶんぎ座流星群が見頃だよ",
         "notificationBodyTemplate": "今夜はしぶんぎ座流星群が見頃だよ……。お正月の夜空に流れ星が見えるといいね……",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "お正月の流れ星だね。年の初めに流れ星が見られたら、なんだか良い一年になりそうだよね……",
       "weatherComment": "とても寒いから、外でずっと見るときは風邪を引かないように防寒を徹底してね……",
@@ -509,7 +548,10 @@
       "title": "ペルセウス座流星群",
       "category": "ASTRONOMY",
       "subCategory": "meteor_shower",
-      "tags": ["night", "meteor"],
+      "tags": [
+        "night",
+        "meteor"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-08-12",
         "endLocalDate": "2026-08-14",
@@ -564,7 +606,9 @@
         "notificationTitle": "今夜は流れ星が見られるかも",
         "notificationBodyTemplate": "今夜はペルセウス座流星群が見頃だよ……。夜更かしして空を眺めてみるのも楽しいかもしれないね……",
         "priority": 3,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "ペルセウス座流星群の季節だね。流れ星が流れる瞬間、トリも一緒にお祈りしちゃうよ。あ、お願い事何にしよう……",
       "weatherComment": "長時間夜空を見るなら、レジャーシートに寝転がるのが首が痛くならなくていいよ……",
@@ -576,7 +620,10 @@
       "title": "ふたご座流星群",
       "category": "ASTRONOMY",
       "subCategory": "meteor_shower",
-      "tags": ["night", "meteor"],
+      "tags": [
+        "night",
+        "meteor"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-12-13",
         "endLocalDate": "2026-12-15",
@@ -631,7 +678,9 @@
         "notificationTitle": "ふたご座流星群が見頃だよ",
         "notificationBodyTemplate": "今夜はふたご座流星群が見頃なんだって……。風邪をひかないように暖かくして、夜空を見上げてみてね……",
         "priority": 3,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "ふたご座流星群の季節。夜中になると月が沈むから、流れ星がいっぱい見えるチャンスだよ。凍えないように気をつけてね……",
       "weatherComment": "冬の夜は本当に冷え込むから、何重にも着込んでお外に出てね……",
@@ -643,7 +692,11 @@
       "title": "部分月食",
       "category": "ASTRONOMY",
       "subCategory": "lunar_eclipse",
-      "tags": ["night", "moon", "eclipse"],
+      "tags": [
+        "night",
+        "moon",
+        "eclipse"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-08-28",
         "endLocalDate": "2026-08-28",
@@ -698,7 +751,9 @@
         "notificationTitle": "明け方に部分月食があるよ",
         "notificationBodyTemplate": "明日の明け方に部分月食が見られるよ……。西の空がよく見える場所で、ちょっと早起きして見てみる……？",
         "priority": 2,
-        "targetRegions": ["全国"]
+        "targetRegions": [
+          "全国"
+        ]
       },
       "toriComment": "月が地球の影に少しだけ隠れちゃうんだって。西の空に沈みながら欠けていく月、なんだか不思議な景色になりそうだね……",
       "weatherComment": "明け方だから寝不足にならないようにね。終わったら二度寝しちゃおう……",
@@ -710,7 +765,10 @@
       "title": "大宮公園の桜",
       "category": "NATURE",
       "subCategory": "cherry_blossom",
-      "tags": ["weekend", "crowd_attention"],
+      "tags": [
+        "weekend",
+        "crowd_attention"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-03-20",
         "endLocalDate": "2026-04-05",
@@ -728,9 +786,9 @@
         "areaName": "大宮公園",
         "address": "埼玉県さいたま市大宮区高鼻町4丁目",
         "latitude": 35.917,
-        "longitude": 139.630,
+        "longitude": 139.63,
         "lat": 35.917,
-        "lng": 139.630,
+        "lng": 139.63,
         "regionType": "spot",
         "displayText": "埼玉県さいたま市 大宮公園"
       },
@@ -764,7 +822,12 @@
         "notificationTitle": "大宮公園の桜が見頃を迎えます",
         "notificationBodyTemplate": "大宮公園の桜がそろそろ見頃みたい……おさんぽの準備をするのもいいかもね……",
         "priority": 2,
-        "targetRegions": ["埼玉県", "東京都", "千葉県", "神奈川県"]
+        "targetRegions": [
+          "埼玉県",
+          "東京都",
+          "千葉県",
+          "神奈川県"
+        ]
       },
       "toriComment": "大宮公園の桜、きれいに咲いているみたい。シートを持ってのんびり眺めるのもよさそう……",
       "weatherComment": "夜は少し冷え込むかもしれないから、薄手の上着があると安心かも……",
@@ -776,7 +839,10 @@
       "title": "新宿御苑の桜",
       "category": "NATURE",
       "subCategory": "cherry_blossom",
-      "tags": ["weekend", "crowd_attention"],
+      "tags": [
+        "weekend",
+        "crowd_attention"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-02-15",
         "endLocalDate": "2026-04-25",
@@ -794,9 +860,9 @@
         "areaName": "新宿御苑",
         "address": "東京都新宿区内藤町11",
         "latitude": 35.685,
-        "longitude": 139.710,
+        "longitude": 139.71,
         "lat": 35.685,
-        "lng": 139.710,
+        "lng": 139.71,
         "regionType": "spot",
         "displayText": "東京都新宿区 新宿御苑"
       },
@@ -830,7 +896,12 @@
         "notificationTitle": "新宿御苑の桜が見頃だよ",
         "notificationBodyTemplate": "新宿御苑のソメイヨシノが綺麗に咲いているみたい……。芝生の上でのんびり桜をながめてみない……？",
         "priority": 2,
-        "targetRegions": ["東京都", "埼玉県", "神奈川県", "千葉県"]
+        "targetRegions": [
+          "東京都",
+          "埼玉県",
+          "神奈川県",
+          "千葉県"
+        ]
       },
       "toriComment": "いろんな種類の桜が順番に咲くから、何度も行きたくなっちゃうね。のんびりピクニック気分で行こう……",
       "weatherComment": "園内はとても広いから、歩きやすい靴でおさんぽするのがおすすめだよ……",
@@ -842,7 +913,10 @@
       "title": "上野恩賜公園の桜",
       "category": "NATURE",
       "subCategory": "cherry_blossom",
-      "tags": ["weekend", "crowd_attention"],
+      "tags": [
+        "weekend",
+        "crowd_attention"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-03-20",
         "endLocalDate": "2026-04-05",
@@ -896,7 +970,12 @@
         "notificationTitle": "上野公園の桜が見頃を迎えるよ",
         "notificationBodyTemplate": "上野恩賜公園のさくら通りが満開を迎えるみたいだよ……。とても賑やかだから、ちょっとのぞいてみる……？",
         "priority": 2,
-        "targetRegions": ["東京都", "神奈川県", "埼玉県", "千葉県"]
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "上野の桜はとてもにぎやかだね。ぼんぼりの灯る夜桜を見ながら、ぶらぶら歩くのが楽しそう……",
       "weatherComment": "人混みで暑く感じるかもしれないから、温度調整しやすい格好で行ってね……",
@@ -908,7 +987,10 @@
       "title": "三ツ池公園の桜",
       "category": "NATURE",
       "subCategory": "cherry_blossom",
-      "tags": ["park", "family"],
+      "tags": [
+        "park",
+        "family"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-02-15",
         "endLocalDate": "2026-04-20",
@@ -962,7 +1044,12 @@
         "notificationTitle": "三ツ池公園の桜が綺麗だよ",
         "notificationBodyTemplate": "横浜の三ツ池公園で池を囲むように咲く桜が見頃だよ……。水面に映るピンク色の景色がきれいだね……",
         "priority": 2,
-        "targetRegions": ["神奈川県", "東京都", "千葉県", "埼玉県"]
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "千葉県",
+          "埼玉県"
+        ]
       },
       "toriComment": "大きな池のまわりに桜がいっぱいで、水辺に映るピンクもすごくきれいだよ。ゆっくり歩いてみてね……",
       "weatherComment": "水辺は風があると冷えるかもしれないから、薄いアウターがあると安心だよ……",
@@ -974,7 +1061,10 @@
       "title": "高尾山の紅葉",
       "category": "NATURE",
       "subCategory": "autumn_leaves",
-      "tags": ["weekend", "crowd_attention"],
+      "tags": [
+        "weekend",
+        "crowd_attention"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-11-10",
         "endLocalDate": "2026-11-30",
@@ -1028,7 +1118,12 @@
         "notificationTitle": "高尾山の紅葉シーズンが始まるよ",
         "notificationBodyTemplate": "高尾山がだんだん赤や黄色に染まってきたみたい……。少しハイキングに出かけてみるのも良さそうだね……",
         "priority": 2,
-        "targetRegions": ["東京都", "神奈川県", "埼玉県", "千葉県"]
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "山全体が赤や黄色でおめかししてるよ。薬王院でお参りして、名物のとろろそばを食べるのも楽しみだね……",
       "weatherComment": "山の上はふもとよりずっと寒いから、暖かいアウターを着ていってね……",
@@ -1040,7 +1135,10 @@
       "title": "国営昭和記念公園の紅葉",
       "category": "NATURE",
       "subCategory": "autumn_leaves",
-      "tags": ["park", "family"],
+      "tags": [
+        "park",
+        "family"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-11-03",
         "endLocalDate": "2026-11-25",
@@ -1088,7 +1186,12 @@
         "notificationTitle": "昭和記念公園のイチョウが見頃だよ",
         "notificationBodyTemplate": "昭和記念公園のイチョウ並木が黄金色に輝いているみたいだよ……。のんびりお散歩しに行ってみる……？",
         "priority": 2,
-        "targetRegions": ["東京都", "神奈川県", "埼玉県", "千葉県"]
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "まっ黄色なイチョウの葉っぱが、地面に黄色の絨毯を作ってきれいなんだよ。日本庭園のモミジもおすすめだよ……",
       "weatherComment": "敷地がものすごく広いから、自転車をレンタルして回るのもいいかもね……",
@@ -1100,7 +1203,10 @@
       "title": "長瀞の紅葉",
       "category": "NATURE",
       "subCategory": "autumn_leaves",
-      "tags": ["river", "scenery"],
+      "tags": [
+        "river",
+        "scenery"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-11-01",
         "endLocalDate": "2026-11-30",
@@ -1154,7 +1260,12 @@
         "notificationTitle": "長瀞の紅葉ライトアップがあるよ",
         "notificationBodyTemplate": "長瀞の月の石もみじ公園でライトアップが始まるよ……。夜の川沿いで真っ赤な紅葉を楽しむのもすてきだね……",
         "priority": 2,
-        "targetRegions": ["埼玉県", "東京都", "千葉県", "神奈川県"]
+        "targetRegions": [
+          "埼玉県",
+          "東京都",
+          "千葉県",
+          "神奈川県"
+        ]
       },
       "toriComment": "ライン下りの川下りをしながら紅葉をながめるのも、おもしろそうだよ。夜のライトアップはとてもロマンチック……",
       "weatherComment": "川の近くだから夜風がとても冷たいよ。防寒対策をしっかりしていこうね……",
@@ -1166,7 +1277,10 @@
       "title": "隅田川花火大会",
       "category": "EVENT",
       "subCategory": "fireworks",
-      "tags": ["night", "crowd_attention"],
+      "tags": [
+        "night",
+        "crowd_attention"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-07-25",
         "endLocalDate": "2026-07-25",
@@ -1219,8 +1333,13 @@
         "lastMinuteNotifyDate": "2026-07-25",
         "notificationTitle": "隅田川花火大会が近づいているよ",
         "notificationBodyTemplate": "東京の夏の風物詩、隅田川の花火が打ち上がるよ……。ものすごい混雑だから、おうちからテレビで眺めるのもいいかもね……",
-        "priority": 3,
-        "targetRegions": ["東京都", "神奈川県", "埼玉県", "千葉県"]
+        "priority": 1,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "ドドーン！って大きな音が響いて、夜空に大きな光の花が咲くよ。テレビ中継でおうち特等席もいいよね……",
       "weatherComment": "蒸し暑いから、うちわや飲み物を持って、熱中症対策をしてね……",
@@ -1232,7 +1351,10 @@
       "title": "みなとみらいスマートフェスティバル",
       "category": "EVENT",
       "subCategory": "fireworks",
-      "tags": ["night", "bay"],
+      "tags": [
+        "night",
+        "bay"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-08-03",
         "endLocalDate": "2026-08-03",
@@ -1285,8 +1407,13 @@
         "lastMinuteNotifyDate": "2026-08-03",
         "notificationTitle": "みなとみらいスマートフェスが近づいているよ",
         "notificationBodyTemplate": "横浜みなとみらいで大迫力の高速花火が上がるよ……。海と花火の綺麗な組み合わせ、遠くから見るのもいいね……",
-        "priority": 2,
-        "targetRegions": ["神奈川県", "東京都", "千葉県", "埼玉県"]
+        "priority": 1,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "千葉県",
+          "埼玉県"
+        ]
       },
       "toriComment": "30分間で2万発も上がるから、ずっと打ち上がりっぱなしで夜空がお祭り騒ぎだよ。海風に吹かれながら見たいね……",
       "weatherComment": "海の近くは風が強いこともあるから、ゴミが飛ばされないように気をつけてね……",
@@ -1298,7 +1425,10 @@
       "title": "鎌倉花火大会",
       "category": "EVENT",
       "subCategory": "fireworks",
-      "tags": ["night", "beach"],
+      "tags": [
+        "night",
+        "beach"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-07-15",
         "endLocalDate": "2026-07-15",
@@ -1351,8 +1481,13 @@
         "lastMinuteNotifyDate": "2026-07-15",
         "notificationTitle": "鎌倉花火大会が近づいているよ",
         "notificationBodyTemplate": "鎌倉の海で名物の水中花火が上がるよ……。波の上に広がるお花の光、とてもロマンチックだね……",
-        "priority": 2,
-        "targetRegions": ["神奈川県", "東京都", "埼玉県", "千葉県"]
+        "priority": 1,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "海の上にボートからお花が投げ込まれて、水面ギリギリで大きく花ひらく水中花火が本当に綺麗なんだよ……",
       "weatherComment": "帰りの鎌倉駅はかなり並ぶから、帰る時間を少しずらすか、先にきっぷを買っておこうね……",
@@ -1364,7 +1499,10 @@
       "title": "よみうりランド ジュエルミネーション",
       "category": "EVENT",
       "subCategory": "illumination",
-      "tags": ["night", "couple"],
+      "tags": [
+        "night",
+        "couple"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-10-22",
         "endLocalDate": "2027-04-04",
@@ -1412,7 +1550,12 @@
         "notificationTitle": "ジュエルミネーションが始まるよ",
         "notificationBodyTemplate": "宝石色のイルミネーションが始まるみたい……。ロマンチックなキラキラの世界、行ってみる……？",
         "priority": 1,
-        "targetRegions": ["東京都", "神奈川県", "埼玉県", "千葉県"]
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "まるで宝石箱をひっくり返したみたいに園内がきらきら光るよ。光の観覧車からの景色もおすすめだな……",
       "weatherComment": "夜の遊園地はとても冷えるから、マフラーと暖かい手袋をして楽しんでね……",
@@ -1424,7 +1567,10 @@
       "title": "東京ドイツ村ウインターイルミネーション",
       "category": "EVENT",
       "subCategory": "illumination",
-      "tags": ["night", "family"],
+      "tags": [
+        "night",
+        "family"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-11-01",
         "endLocalDate": "2027-03-22",
@@ -1472,7 +1618,12 @@
         "notificationTitle": "東京ドイツ村のイルミネーションが始まるよ",
         "notificationBodyTemplate": "ドイツ村の広大な草原がきらきら光る地上絵に変身するよ……。お車に乗ったまま光の中をお散歩できるんだって……",
         "priority": 1,
-        "targetRegions": ["千葉県", "東京都", "神奈川県", "埼玉県"]
+        "targetRegions": [
+          "千葉県",
+          "東京都",
+          "神奈川県",
+          "埼玉県"
+        ]
       },
       "toriComment": "見晴らし台から見える「光の地上絵」がとっても広くてダイナミックなんだよ。毎年変わるテーマもお楽しみだよ……",
       "weatherComment": "夜の草原は風をさえぎるものがなくて寒いから、厚手のコートとカイロがあると安心だよ……",
@@ -1484,7 +1635,10 @@
       "title": "さがみ湖イルミリオン",
       "category": "EVENT",
       "subCategory": "illumination",
-      "tags": ["night", "mountain"],
+      "tags": [
+        "night",
+        "mountain"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-11-14",
         "endLocalDate": "2027-05-09",
@@ -1537,8 +1691,13 @@
         "lastMinuteNotifyDate": "2026-11-14",
         "notificationTitle": "さがみ湖イルミリオンが始まるよ",
         "notificationBodyTemplate": "山の斜面がキラキラ光るさがみ湖イルミリオンが始まるよ……。光のリフトに乗って空中散歩できるよ……",
-        "priority": 2,
-        "targetRegions": ["神奈川県", "東京都", "埼玉県", "千葉県"]
+        "priority": 1,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "光の空中リフトに乗って、足元に広がる光の虹を見下ろすのがとってもきれいなんだよ。夜の遊園地、わくわくするね……",
       "weatherComment": "山だから風が強いとさらに寒いよ。温かいスープやコーヒーを飲んでぬくぬくしてね……",
@@ -1550,7 +1709,10 @@
       "title": "丸の内イルミネーション",
       "category": "EVENT",
       "subCategory": "illumination",
-      "tags": ["night", "city"],
+      "tags": [
+        "night",
+        "city"
+      ],
       "dateInfo": {
         "startLocalDate": "2026-11-12",
         "endLocalDate": "2027-02-14",
@@ -1567,9 +1729,9 @@
         "city": "千代田区",
         "areaName": "丸の内仲通り周辺",
         "address": "東京都千代田区丸の内２丁目",
-        "latitude": 35.680,
+        "latitude": 35.68,
         "longitude": 139.764,
-        "lat": 35.680,
+        "lat": 35.68,
         "lng": 139.764,
         "regionType": "spot",
         "displayText": "東京都千代田区 丸の内仲通り"
@@ -1598,10 +1760,2131 @@
         "notificationTitle": "丸の内イルミネーションが点灯するよ",
         "notificationBodyTemplate": "丸の内仲通りの街路樹がシャンパンゴールドにきらめくよ……。お仕事帰りに歩くだけでも、心が少しあたたかくなるね……",
         "priority": 1,
-        "targetRegions": ["東京都", "神奈川県", "埼玉県", "千葉県"]
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
       },
       "toriComment": "丸の内のシャンパンゴールドの光は、大人っぽくてとてもきれいだね。おしゃれなお店を眺めながら歩くのがいいね……",
       "weatherComment": "ビル風があるとお外はとても冷たいよ。暖かいマフラーをしていこうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "hinamatsuri_2026",
+      "title": "ひな祭り（桃の節句）",
+      "category": "SEASONAL_CUSTOM",
+      "subCategory": "hinamatsuri",
+      "tags": [
+        "home",
+        "traditional"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-03",
+        "endLocalDate": "2026-03-03",
+        "displayDate": "3月3日",
+        "timeMemo": null,
+        "startDate": "2026-03-03",
+        "endDate": "2026-03-03",
+        "displayText": "3月3日",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国各家庭",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "女の子の健やかな成長と健康を祈る日本の伝統行事。ひな人形や桃の花を飾り、白酒やちらし寿司、ひなあられなどを楽しむ習慣があります。",
+      "recommendationReason": "春の訪れを感じる桃の花や、彩り豊かなちらし寿司など、家族で楽しめる年中行事です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "神社本庁（桃の節句について）",
+          "url": "https://www.jinjahoncho.or.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-02",
+        "lastMinuteNotifyDate": "2026-03-03",
+        "notificationTitle": "今日はひな祭りだよ",
+        "notificationBodyTemplate": "今日はひな祭り。美味しいちらし寿司を食べたり、ひなあられをつまんだりする……？",
+        "priority": 1,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "おだいりさまとおひなさま、きれいに飾られているね。桃の花も咲いて、お部屋が春の匂いになってうれしいな……",
+      "weatherComment": "少しずつ春らしい暖かい日が増えてくる時期だね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "obon_2026",
+      "title": "お盆（旧盆）",
+      "category": "SEASONAL_CUSTOM",
+      "subCategory": "obon",
+      "tags": [
+        "traditional",
+        "family"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-08-13",
+        "endLocalDate": "2026-08-16",
+        "displayDate": "8月13日〜16日",
+        "timeMemo": null,
+        "startDate": "2026-08-13",
+        "endDate": "2026-08-16",
+        "displayText": "8月13日〜16日",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "ご先祖様の霊をお迎えして供養する日本の夏の伝統行事。迎え火や送り火を焚いたり、盆踊りが行われたりします。",
+      "recommendationReason": "家族が集まり、ご先祖様をしのぶ日本のアットホームな夏の行事です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "神社本庁（お盆について）",
+          "url": "https://www.jinjahoncho.or.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "帰省ラッシュ注意",
+          "severity": "medium",
+          "message": "お盆期間中は高速道路や新幹線、飛行機が極めて混雑します。移動のスケジュールには十分な余裕を持ってください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-08-11",
+        "lastMinuteNotifyDate": "2026-08-13",
+        "notificationTitle": "もうすぐお盆休みが始まるね",
+        "notificationBodyTemplate": "ご先祖様をお迎えする準備はできた……？ゆっくり家族と過ごして休んでね……",
+        "priority": 2,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "きゅうりの馬やなすの牛を飾ってお迎えするんだよね。のんびりお墓参りに行って、ご先祖様に近況を報告しようね……",
+      "weatherComment": "とても暑い時期だから、涼しいお部屋で水分をたくさん摂ってね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "new_year_eve_2026",
+      "title": "大晦日（おおみそか）",
+      "category": "SEASONAL_CUSTOM",
+      "subCategory": "new_year_eve",
+      "tags": [
+        "night",
+        "traditional"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-12-31",
+        "endLocalDate": "2026-12-31",
+        "displayDate": "12月31日",
+        "timeMemo": null,
+        "startDate": "2026-12-31",
+        "endDate": "2026-12-31",
+        "displayText": "12月31日",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国各家庭・寺社",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "一年の最後の日。年越しそばを食べたり、除夜の鐘を聞きながら、新しい一年を迎える準備をする大切な日です。",
+      "recommendationReason": "今年一年の無さに感謝し、静かに新しい年を迎える日本の伝統的な年末行事です。",
+      "rarityLabel": "年一回の限定",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "神社本庁（大晦日について）",
+          "url": "https://www.jinjahoncho.or.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-12-30",
+        "lastMinuteNotifyDate": "2026-12-31",
+        "notificationTitle": "今日は大晦日だよ",
+        "notificationBodyTemplate": "今日で今年もおしまいだね……。温かい年越しそばを食べて、のんびり新年を迎えようね……",
+        "priority": 2,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "夜中になるとゴーンって除夜の鐘の音が聞こえてくるね。今年もお世話になりました。来年も仲良くしてね……",
+      "weatherComment": "真冬の夜は本当に冷え込むから、温かいお部屋で紅白やテレビを見てぬくぬくしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "spring_equinox_2026",
+      "title": "春分の日",
+      "category": "SEASONAL_CUSTOM",
+      "subCategory": "spring_equinox",
+      "tags": [
+        "holiday",
+        "traditional"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-20",
+        "endLocalDate": "2026-03-20",
+        "displayDate": "3月20日",
+        "timeMemo": null,
+        "startDate": "2026-03-20",
+        "endDate": "2026-03-20",
+        "displayText": "3月20日",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "「自然をたたえ、生物をいつくしむ」ための国民の祝日。昼と夜の長さがほぼ等しくなる日で、この日を挟む前後7日間はお彼岸と呼ばれ、墓参りなどを行います。",
+      "recommendationReason": "本格的な春の訪れを祝う祝日。お彼岸のぼたもちを食べるのも定番です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "国立天文台（令和8年 暦要項）",
+          "url": "https://eco.mtk.nao.ac.jp/koyomi/yokou/2026/rekiyou.html",
+          "sourceType": "astronomy_authority",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-19",
+        "lastMinuteNotifyDate": "2026-03-20",
+        "notificationTitle": "今日は春分の日だよ",
+        "notificationBodyTemplate": "今日は春分の日。お彼岸だから、のんびりお墓参りに行ったり、ぼたもちを食べるのもいいね……",
+        "priority": 1,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "暑さ寒さも彼岸までって言うし、これからどんどん暖かくなるね。美味しいぼたもち、トリも食べたいな……",
+      "weatherComment": "暖かくなってきたけど、まだ風が冷たい日もあるから気をつけてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "autumn_equinox_2026",
+      "title": "秋分の日",
+      "category": "SEASONAL_CUSTOM",
+      "subCategory": "autumn_equinox",
+      "tags": [
+        "holiday",
+        "traditional"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-09-23",
+        "endLocalDate": "2026-09-23",
+        "displayDate": "9月23日",
+        "timeMemo": null,
+        "startDate": "2026-09-23",
+        "endDate": "2026-09-23",
+        "displayText": "9月23日",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "「祖先をうやまい、なくなった人々をしのぶ」ための国民の祝日。秋のお彼岸の中日にあたり、お墓参りをしておはぎをお供えします。",
+      "recommendationReason": "夏の暑さが和らぎ、秋への移り変わりを感じる祝日です。おはぎを楽しむのもおすすめです。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "国立天文台（令和8年 暦要項）",
+          "url": "https://eco.mtk.nao.ac.jp/koyomi/yokou/2026/rekiyou.html",
+          "sourceType": "astronomy_authority",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-09-22",
+        "lastMinuteNotifyDate": "2026-09-23",
+        "notificationTitle": "今日は秋分の日だよ",
+        "notificationBodyTemplate": "今日は秋分の日。お墓参りに行ったり、おうちでおはぎを食べて秋を感じようね……",
+        "priority": 1,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "昼と夜の長さが同じになる日なんだって。これからどんどん夜が長くなるから、読書や秋の夜長を楽しもうね……",
+      "weatherComment": "朝晩は急に涼しくなるから、風邪をひかないように気をつけてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "lyrids_meteor_2026",
+      "title": "こと座流星群",
+      "category": "ASTRONOMY",
+      "subCategory": "meteor_shower",
+      "tags": [
+        "night",
+        "meteor"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-04-22",
+        "endLocalDate": "2026-04-23",
+        "displayDate": "4月22日夜〜23日明け方",
+        "timeMemo": "極大予想は4月23日4:00頃のため、22日深夜〜23日明け方が見頃",
+        "startDate": "2026-04-22",
+        "endDate": "2026-04-23",
+        "displayText": "4月22日夜〜23日明け方",
+        "peakDateTime": "2026-04-23T04:00:00+09:00",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国（夜空が見える場所）",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "春を代表する流星群。突発的に出現数が増加することがあり、明るい流星が比較的多く流れるのが特徴です。2026年の観測環境は上弦の月が夜半頃に沈むため、月没後の深夜から明け方が良好でした。",
+      "recommendationReason": "春の夜風を感じながら、静かに流れ星を探す穏やかな天体ショーです。",
+      "rarityLabel": "年一回の限定",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "国立天文台（こと座流星群）",
+          "url": "https://www.nao.ac.jp/astro/sky/meteor-shower/lyrids.html",
+          "sourceType": "astronomy_authority",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-04-21",
+        "lastMinuteNotifyDate": "2026-04-22",
+        "notificationTitle": "今夜はこと座流星群が見頃だよ",
+        "notificationBodyTemplate": "今夜はこと座流星群が見頃だよ……。夜半過ぎに月が沈んでからが見えやすくなるんだって……",
+        "priority": 1,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "春の流れ星だね。少し肌寒いかもしれないけど、ベランダから夜空を見上げてみるのもロマンチックだよ……",
+      "weatherComment": "春の夜はまだ冷え込むから、カーディガンなどを羽織って見てね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "eta_aquariids_meteor_2026",
+      "title": "みずがめ座η流星群",
+      "category": "ASTRONOMY",
+      "subCategory": "meteor_shower",
+      "tags": [
+        "night",
+        "meteor"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-05-06",
+        "endLocalDate": "2026-05-07",
+        "displayDate": "5月6日夜〜7日明け方",
+        "timeMemo": "極大は5月6日17:00頃のため、6日未明と7日未明が好条件",
+        "startDate": "2026-05-06",
+        "endDate": "2026-05-07",
+        "displayText": "5月6日夜〜7日明け方",
+        "peakDateTime": "2026-05-06T17:00:00+09:00",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国（東の空が開けた場所）",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "ハレー彗星を母天体とする流星群。南半球で観測しやすい流星群ですが、日本でもゴールデンウィークの終わりの明け方に、すばやく流れる軌跡の長い流星が数多く観測されました。月明かりの影響もなく好条件でした。",
+      "recommendationReason": "新月直後で月明かりが一切ない最高の夜空環境で、多くの流れ星が楽しめました。",
+      "rarityLabel": "年一回の限定",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "国立天文台（みずがめ座η流星群）",
+          "url": "https://www.nao.ac.jp/astro/sky/meteor-shower/eta-aquariids.html",
+          "sourceType": "astronomy_authority",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-05-05",
+        "lastMinuteNotifyDate": "2026-05-06",
+        "notificationTitle": "みずがめ座流星群が極大だよ",
+        "notificationBodyTemplate": "今夜から明け方にかけて、みずがめ座η流星群が見頃だよ……。月明かりがなくて最高の観測日和なんだって……",
+        "priority": 2,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "ゴールデンウィークの最後の天体ショーだね。月がなくて真っ暗だから、いつもより星がきれいに見えるよ……",
+      "weatherComment": "明け方は冷え込むから、風邪をひかないように気をつけてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "orionids_meteor_2026",
+      "title": "オリオン座流星群",
+      "category": "ASTRONOMY",
+      "subCategory": "meteor_shower",
+      "tags": [
+        "night",
+        "meteor"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-10-21",
+        "endLocalDate": "2026-10-22",
+        "displayDate": "10月21日夜〜22日明け方",
+        "timeMemo": "極大予想は10月21日15:00頃のため、21日深夜〜22日明け方が見頃",
+        "startDate": "2026-10-21",
+        "endDate": "2026-10-22",
+        "displayText": "10月21日夜〜22日明け方",
+        "peakDateTime": "2026-10-21T15:00:00+09:00",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "全国",
+        "city": null,
+        "areaName": "全国（夜空が見える場所）",
+        "address": null,
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "regionType": "nationwide",
+        "displayText": "全国"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "upcoming",
+      "description": "ハレー彗星を母天体とし、全流星群の中で2番目に早い対地速度を持つのが特徴。非常にすばやく流れ、時折明るい火球が出現することもあります。2026年は上弦直後の月が夜半前に沈み、夜半から明け方の観測条件は良好です。",
+      "recommendationReason": "秋が深まる夜、オリオン座から放射状に飛び出す美しい流れ星を探す特別な夜です。",
+      "rarityLabel": "年一回の限定",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "国立天文台（主な流星群）",
+          "url": "https://www.nao.ac.jp/astro/sky/meteor-shower/major.html",
+          "sourceType": "astronomy_authority",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "夜間冷え込み注意",
+          "severity": "medium",
+          "message": "10月下旬の深夜〜早朝はかなり気温が下がります。しっかり暖かい格好をして観測してください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-10-20",
+        "lastMinuteNotifyDate": "2026-10-21",
+        "notificationTitle": "オリオン座流星群が見頃だよ",
+        "notificationBodyTemplate": "今夜はオリオン座流星群が見頃だよ…….夜中に月が沈んでから観測しやすくなるみたいだよ……",
+        "priority": 2,
+        "targetRegions": [
+          "全国"
+        ]
+      },
+      "toriComment": "オリオン座からしゅっと流れる素早い星だよ。見逃さないように、夜空をひろーくぼんやり眺めるのがコツなんだって……",
+      "weatherComment": "毛布を持ってお外に出て、星を探すのも楽しそうだね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "meguro_river_sakura_2026",
+      "title": "目黒川の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "river",
+        "crowd_attention"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-20",
+        "endLocalDate": "2026-04-05",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "終日散策自由（ライトアップは17:00〜20:00頃）",
+        "startDate": "2026-03-20",
+        "endDate": "2026-04-05",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "目黒区",
+        "areaName": "目黒川沿い（池尻大橋〜東急目黒線下流）",
+        "address": "東京都目黒区大橋〜下目黒",
+        "latitude": 35.6456,
+        "longitude": 139.6994,
+        "lat": 35.6456,
+        "lng": 139.6994,
+        "regionType": "spot",
+        "displayText": "東京都目黒区 目黒川周辺"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "約4kmにわたり約800本のソメイヨシノが目黒川を覆うように咲き誇る、都内屈指の桜スポット。両岸から川に向かって枝を伸ばす美しいピンクのアーチが見事で、満開後の川面を流れる花びら（花筏）も風情があります。",
+      "recommendationReason": "川沿いのカフェを覗きながら歩くお洒落なお花見にぴったり。夜桜の美しさも別格です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "めぐろ観光まちづくり協会",
+          "url": "https://meguro-kanko.com/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "極度の混雑",
+          "severity": "high",
+          "message": "開花ピーク時は川沿いの遊歩道が大変混雑し、一歩通行規制などが行われます。撮影の際は周囲の歩行者へのご配慮をお願いします。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-17",
+        "lastMinuteNotifyDate": "2026-03-24",
+        "notificationTitle": "目黒川の桜が見頃を迎えるよ",
+        "notificationBodyTemplate": "目黒川の両岸に綺麗な桜のトンネルができているみたいだよ……。のんびり歩いてみる……？",
+        "priority": 3,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "川の上に桜のピンクの屋根ができるんだよ。散り始めたあとの、川の上がピンク色で染まる「花筏」もすごくきれいで大好き……",
+      "weatherComment": "中目黒駅は非常に混むから、隣 of 池尻大橋駅から歩き始めるのもおすすめだよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "chidorigafuchi_sakura_2026",
+      "title": "千鳥ヶ淵緑道の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "scenery",
+        "crowd_attention"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-22",
+        "endLocalDate": "2026-04-06",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "夜間ライトアップあり（日没〜22:00）、ボート場営業あり",
+        "startDate": "2026-03-22",
+        "endDate": "2026-04-06",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "areaName": "千鳥ヶ淵緑道",
+        "address": "東京都千代田区九段南２丁目から三番町先",
+        "latitude": 35.6908,
+        "longitude": 139.7495,
+        "lat": 35.6908,
+        "lng": 139.7495,
+        "regionType": "spot",
+        "displayText": "東京都千代田区 千鳥ヶ淵緑道"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "皇居のお濠沿いに広がる約700mの緑道で、ソメイヨシノやオオシマザクラなど約260本の桜が咲き競います。まるでお濠に向かってダイブするようにせり出す大迫力の桜が圧巻で、水面に映るピンクも神秘的です。",
+      "recommendationReason": "夜間ライトアップや、お濠でのボート遊びなど、ダイナミックで高貴な美しさを楽しめます。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "千代田区観光協会",
+          "url": "https://visit-chiyoda.tokyo/app/spot/detail/446",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "ボート待ち時間・大混雑注意",
+          "severity": "high",
+          "message": "桜シーズン中のボート乗船は数時間待ちとなることがあります。また、緑道内は通路が狭いため混雑時の立ち止まり撮影には十分ご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-18",
+        "lastMinuteNotifyDate": "2026-03-25",
+        "notificationTitle": "千鳥ヶ淵の夜桜ライトアップが綺麗だよ",
+        "notificationBodyTemplate": "皇居のお濠沿いの桜が満開みたいだよ……。夜になるとライトアップされて、水面に浮かぶ桜がとても美しいね……",
+        "priority": 3,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "お濠の深い緑の水と、満開の桜のピンクのコントラストがとても美しいよ。ライトに照らされた夜桜は、息をのむ美しさだね……",
+      "weatherComment": "お濠からの風が少し冷たいから、暖かいコートやジャケットがあるといいよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "sumida_park_sakura_2026",
+      "title": "隅田公園の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "park",
+        "scenery"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-20",
+        "endLocalDate": "2026-04-05",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "終日開放（ライトアップは日没〜21:00頃）",
+        "startDate": "2026-03-20",
+        "endDate": "2026-04-05",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "墨田区",
+        "areaName": "隅田公園",
+        "address": "東京都墨田区向島１丁目",
+        "latitude": 35.7135,
+        "longitude": 139.803,
+        "lat": 35.7135,
+        "lng": 139.803,
+        "regionType": "spot",
+        "displayText": "東京都墨田区 隅田公園"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "隅田川の両岸に広がる公園で、江戸時代に徳川吉宗が桜を植えたのが始まりとされる由緒ある名所。対岸のスカイツリーと桜並木が同時に見渡せる素晴らしい景観で、約300本の桜が満開になります。",
+      "recommendationReason": "歴史ある桜並木と、現代の東京スカイツリーが織りなす新旧のコラボレーションを楽しめます。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "墨田区観光協会",
+          "url": "https://visit-sumida.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-18",
+        "lastMinuteNotifyDate": "2026-03-24",
+        "notificationTitle": "隅田公園の桜が見頃だよ",
+        "notificationBodyTemplate": "隅田川沿いの桜が大空に咲き誇っているよ……。スカイツリーと桜のツーショット写真が撮れる人気スポットだね……",
+        "priority": 2,
+        "targetRegions": [
+          "東京都",
+          "千葉県",
+          "埼玉県",
+          "神奈川県"
+        ]
+      },
+      "toriComment": "スカイツリーが桜の上からひょっこり顔を出している姿が面白いね。川を走る屋形船からのんびり眺めるのも贅沢だよ……",
+      "weatherComment": "浅草駅のすぐ近くだから、下町おさんぽと一緒に楽しむといいよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "kumagaya_sakuratsutsumi_2026",
+      "title": "熊谷桜堤の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "scenery",
+        "park"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-23",
+        "endLocalDate": "2026-04-06",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "終日開放（桜まつり期間はライトアップ 18:00〜21:00）",
+        "startDate": "2026-03-23",
+        "endDate": "2026-04-06",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "埼玉県",
+        "city": "熊谷市",
+        "areaName": "荒川河川敷（熊谷桜堤）",
+        "address": "埼玉県熊谷市河原町２丁目",
+        "latitude": 36.136,
+        "longitude": 139.382,
+        "lat": 36.136,
+        "lng": 139.382,
+        "regionType": "spot",
+        "displayText": "埼玉県熊谷市 熊谷桜堤"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "荒川沿い約2kmにわたって約500本のソメイヨシノが咲き誇る、日本さくら名所100選の一つ。桜の開花時期に合わせて堤防の斜面に黄色い菜の花が一斉に咲き、ピンクと黄色の鮮やかなコントラストが楽しめます。",
+      "recommendationReason": "満開の桜のピンクと、斜面を埋め尽くす菜の花の黄色の美しいグラデーションは必見です。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "熊谷市観光協会",
+          "url": "https://www.oideyo-kumagaya.com/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-19",
+        "lastMinuteNotifyDate": "2026-03-26",
+        "notificationTitle": "熊谷桜堤で桜と菜の花が見頃だよ",
+        "notificationBodyTemplate": "埼玉の熊谷桜堤で桜と菜の花が同時に咲いて綺麗だよ……。春爛漫の景色を見に行ってみる……？",
+        "priority": 2,
+        "targetRegions": [
+          "埼玉県",
+          "東京都",
+          "群馬県"
+        ]
+      },
+      "toriComment": "堤防をのぼると右はピンクの桜、足元は黄色の菜の花で、まるで絵本の中にいるみたいに綺麗な散歩道なんだよ……",
+      "weatherComment": "熊谷駅から歩いてすぐだから、春風に吹かれながらゆっくり歩いていこうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "shimizu_park_sakura_2026",
+      "title": "清水公園の桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "park",
+        "family"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-20",
+        "endLocalDate": "2026-04-05",
+        "displayDate": "3月下旬〜4月上旬",
+        "timeMemo": "入園無料（有料施設あり、開園時間 9:00〜17:00 ※桜期間は夜間ライトアップ実施）",
+        "startDate": "2026-03-20",
+        "endDate": "2026-04-05",
+        "displayText": "3月下旬〜4月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "千葉県",
+        "city": "野田市",
+        "areaName": "清水公園",
+        "address": "千葉県野田市清水906",
+        "latitude": 35.9754,
+        "longitude": 139.854,
+        "lat": 35.9754,
+        "lng": 139.854,
+        "regionType": "spot",
+        "displayText": "千葉県野田市 清水公園"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "日本さくら名所100選にも選ばれている、約28万平方メートルの広大な自然公園。園内にはソメイヨシノを中心に約2,000本の桜が咲き競い、樹齢100年を超える百年桜などの名木もあります。アスレチックでも人気です。",
+      "recommendationReason": "樹齢100年を超える大桜の見事な迫力と、お花見とアウトドア活動を同時に楽しめます。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "清水公園公式",
+          "url": "https://www.shimizu-kouen.com/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-18",
+        "lastMinuteNotifyDate": "2026-03-23",
+        "notificationTitle": "清水公園の桜が見頃だよ",
+        "notificationBodyTemplate": "千葉の清水公園で約2,000本の桜が咲いているみたい……。アスレチックやお花見にぴったりの場所だね……",
+        "priority": 1,
+        "targetRegions": [
+          "千葉県",
+          "埼玉県",
+          "東京都",
+          "茨城県"
+        ]
+      },
+      "toriComment": "大きな「百年桜」が、いっぱいの桜の花を抱えて立っている姿がすごく力強くてかっこいいんだよ……",
+      "weatherComment": "一日中遊べるから、お弁当とレジャーシートを持って楽しんでね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "rikugien_weeping_sakura_2026",
+      "title": "六義園のしだれ桜",
+      "category": "NATURE",
+      "subCategory": "cherry_blossom",
+      "tags": [
+        "scenery",
+        "night"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-03-18",
+        "endLocalDate": "2026-03-29",
+        "displayDate": "3月中旬〜3月下旬",
+        "timeMemo": "開園時間 9:00〜17:00（特別観賞期間は夜間ライトアップ 18:00〜21:00）",
+        "startDate": "2026-03-18",
+        "endDate": "2026-03-29",
+        "displayText": "3月中旬〜3月下旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "文京区",
+        "areaName": "六義園",
+        "address": "東京都文京区本駒込６丁目１６−３",
+        "latitude": 35.733,
+        "longitude": 139.746,
+        "lat": 35.733,
+        "lng": 139.746,
+        "regionType": "spot",
+        "displayText": "東京都文京区 六義園"
+      },
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
+      "description": "江戸を代表する大名庭園に咲く、高さ約15m、幅約20mの巨大なしだれ桜。満開時にはまるで薄ピンク色の滝が流れ落ちるかのようなダイナミックな姿になり、夜はライトアップされ暗闇に美しく浮かび上がります。",
+      "recommendationReason": "都内でもいち早く咲くしだれ桜。庭園にそびえ立つピンクの滝のような夜桜は幻想的な美しさです。",
+      "rarityLabel": "季節の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "東京都公園協会（公園へ行こう！六義園）",
+          "url": "https://www.tokyo-park.or.jp/park/format/index031.html",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "入場券事前購入推奨・夜間チケット制",
+          "severity": "medium",
+          "message": "しだれ桜のライトアップ期間中の夜間は、混雑緩和のため、事前予約制の「夜間特別観賞券」が必要になる場合があります。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-03-15",
+        "lastMinuteNotifyDate": "2026-03-20",
+        "notificationTitle": "六義園のしだれ桜が点灯するよ",
+        "notificationBodyTemplate": "六義園の大きな大きなしだれ桜が満開みたいだよ……。夜のライトアップ、一緒に滝のような桜を見に行ってみる……？",
+        "priority": 3,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "枝が地面に届きそうなくらい長くて、ピンクの花がシャワーみたいに降ってくるよ。暗闇に白く輝く姿が本当に幻想的……",
+      "weatherComment": "夜間観賞の時はまだ寒の戻りで寒いから、暖かい格好を忘れないでね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "jingu_gaien_ginkgo_2026",
+      "title": "明治神宮外苑のイチョウ並木",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "city",
+        "crowd_attention"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-15",
+        "endLocalDate": "2026-12-05",
+        "displayDate": "11月中旬〜12月上旬",
+        "timeMemo": "終日散策自由（ライトアップは16:30〜19:30頃予定）",
+        "startDate": "2026-11-15",
+        "endDate": "2026-12-05",
+        "displayText": "11月中旬〜12月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "新宿区・港区",
+        "areaName": "明治神宮外苑イチョウ並木",
+        "address": "東京都港区北青山２丁目",
+        "latitude": 35.6723,
+        "longitude": 139.7214,
+        "lat": 35.6723,
+        "lng": 139.7214,
+        "regionType": "spot",
+        "displayText": "東京都港区 神宮外苑イチョウ並木"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "bud",
+      "description": "アオヤマ通りから聖徳記念絵画館に向かって約300mにわたる、146本の巨大なイチョウの並木道。遠近法を用いて計算配置された美しい景観は、秋になると周囲全体を黄金の世界に変え、東京を代表する絶景スポットになります。",
+      "recommendationReason": "遠近感が美しい黄金のトンネルと、落葉後のイチョウの黄色い絨毯をのんびり歩くのが最高です。",
+      "rarityLabel": "秋の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "明治神宮外苑公式サイト",
+          "url": "http://www.meijijingu-gaien.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "車道への飛び出し・大混雑注意",
+          "severity": "high",
+          "message": "紅葉期は非常に多くの観光客が訪れます。道路の中央に出て撮影をする行為は大変危険ですのでおやめください。警察の指示に従いましょう。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-10",
+        "lastMinuteNotifyDate": "2026-11-20",
+        "notificationTitle": "神宮外苑のイチョウ並木が見頃だよ",
+        "notificationBodyTemplate": "神宮外苑 of イチョウ並木がきれいな黄金色に染まったよ……。黄色いトンネルの中をおさんぽしに行ってみよう……",
+        "priority": 3,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "きれいに切り揃えられたイチョウが並んでいて、まるで絵の具で塗ったみたいに黄色一色の景色になるんだよ……",
+      "weatherComment": "おさんぽのあとは、外苑の近くのおしゃれなカフェで温かい紅茶を飲むのがおすすめだよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "rikugien_leaves_2026",
+      "title": "六義園の紅葉",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "scenery",
+        "night"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-20",
+        "endLocalDate": "2026-12-10",
+        "displayDate": "11月下旬〜12月上旬",
+        "timeMemo": "開園時間 9:00〜17:00（夜間特別観賞期間はライトアップ 18:00〜21:00）",
+        "startDate": "2026-11-20",
+        "endDate": "2026-12-10",
+        "displayText": "11月下旬〜12月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "文京区",
+        "areaName": "六義園",
+        "address": "東京都文京区本駒込６丁目１６−３",
+        "latitude": 35.733,
+        "longitude": 139.746,
+        "lat": 35.733,
+        "lng": 139.746,
+        "regionType": "spot",
+        "displayText": "東京都文京区 六義園"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "bud",
+      "description": "イロハモミジやハゼノキなど約560本の紅葉が大名庭園を彩ります。池の周辺を囲む山々や川の景色と紅葉が美しく調和し、夜間ライトアップでは静かな庭園全体が水面に鮮明に照らされ非常に幻想的です。",
+      "recommendationReason": "和の趣あふれる大名庭園と紅葉のライトアップ。都心にいながら静寂な秋を感じられます。",
+      "rarityLabel": "秋の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "東京都公園協会（公園へ行こう！六義園）",
+          "url": "https://www.tokyo-park.or.jp/park/format/index031.html",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "夜間観賞チケット制注意",
+          "severity": "medium",
+          "message": "紅葉ライトアップ期間中の夜間は、混雑緩和のため、事前予約制の「夜間特別観賞券」が必要になる場合があります。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-15",
+        "lastMinuteNotifyDate": "2026-11-23",
+        "notificationTitle": "六義園の紅葉ライトアップがあるよ",
+        "notificationBodyTemplate": "六義園で秋の紅葉ライトアップが始まるよ……。お池にきれいに映る真っ赤なモミジを眺めに行ってみる……？",
+        "priority": 2,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "風がない夜に行くと、お庭の池がまるで鏡みたいになって、逆さまに映る赤いライトアップがとってもきれいだよ……",
+      "weatherComment": "夜のお庭はビル風で冷え込むから、しっかり暖かいジャケットやマフラーでおでかけしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "hontoji_leaves_2026",
+      "title": "本土寺の紅葉",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "scenery",
+        "temple"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-15",
+        "endLocalDate": "2026-12-05",
+        "displayDate": "11月中旬〜12月上旬",
+        "timeMemo": "参拝時間 9:00〜16:30（有料エリアあり）",
+        "startDate": "2026-11-15",
+        "endDate": "2026-12-05",
+        "displayText": "11月中旬〜12月上旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "areaName": "本土寺",
+        "address": "千葉県松戸市平賀63",
+        "latitude": 35.8236,
+        "longitude": 139.9328,
+        "lat": 35.8236,
+        "lng": 139.9328,
+        "regionType": "spot",
+        "displayText": "千葉県松戸市 本土寺"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "bud",
+      "description": "「あじさい寺」として有名ですが、秋になると約1,500本のヤマモミジやオオモミジ、イチョウが一斉に色づく素晴らしい紅葉スポット。五重塔や仁王門と真っ赤な紅葉が調和する、古都を思わせる歴史的絶景が広がります。",
+      "recommendationReason": "五重塔を背景にした紅葉の美しさは、まるで京都のお寺を散策しているかのような佇まいです。",
+      "rarityLabel": "秋の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "本土寺公式ホームページ",
+          "url": "http://www.hontoji.or.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-10",
+        "lastMinuteNotifyDate": "2026-11-18",
+        "notificationTitle": "松戸・本土寺の紅葉が見頃だよ",
+        "notificationBodyTemplate": "「あじさい寺」として有名な本土寺が、今は見事な赤い紅葉に染まっているみたい……。静かにお参りするのもいいね……",
+        "priority": 1,
+        "targetRegions": [
+          "千葉県",
+          "東京都",
+          "埼玉県",
+          "茨城県"
+        ]
+      },
+      "toriComment": "赤い五重塔と、真っ赤に染まるモミジが重なる景色がとてもかっこいいんだよ。足元一面に敷きつまる赤い葉っぱもすてき……",
+      "weatherComment": "お寺の境内は砂利道が多いから、ヒールではなくてスニーカーなど歩きやすい靴がいいよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "ashinoko_leaves_2026",
+      "title": "箱根・芦ノ湖の紅葉",
+      "category": "NATURE",
+      "subCategory": "autumn_leaves",
+      "tags": [
+        "lake",
+        "mountain"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-01",
+        "endLocalDate": "2026-11-20",
+        "displayDate": "11月上旬〜11月中旬",
+        "timeMemo": "終日散策自由（遊覧船やロープウェイ運行時間に注意）",
+        "startDate": "2026-11-01",
+        "endDate": "2026-11-20",
+        "displayText": "11月上旬〜11月中旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": true
+      },
+      "location": {
+        "prefecture": "神奈川県",
+        "city": "足柄下郡箱根町",
+        "areaName": "芦ノ湖・元箱根周辺",
+        "address": "神奈川県足柄下郡箱根町元箱根",
+        "latitude": 35.201,
+        "longitude": 139.023,
+        "lat": 35.201,
+        "lng": 139.023,
+        "regionType": "spot",
+        "displayText": "神奈川県箱根町 芦ノ湖"
+      },
+      "commonStatus": "UPCOMING",
+      "categoryStatus": "bud",
+      "description": "標高約720mに位置する美しい芦ノ湖の畔で、富士山を背景に湖畔を取り囲むモミジやブナが赤や黄色に染まります。箱根海賊船などの船上から眺める紅葉のグラデーションや、恩賜箱根公園からの大パノラマが見事です。",
+      "recommendationReason": "湖、紅葉の山、そして雪化粧した富士山が重なり合う、日本を代表する最高級の秋の絶景です。",
+      "rarityLabel": "秋の特別絶景",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "箱根町観光協会（箱根ナビ）",
+          "url": "https://www.hakonenavi.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式確認済み",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "土日の渋滞と冷え込み注意",
+          "severity": "medium",
+          "message": "紅葉シーズンの箱根は主要道路（国道1号など）が激しく渋滞します。公共交通機関（箱根登山鉄道等）の利用や早めの出発をおすすめします。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-10-25",
+        "lastMinuteNotifyDate": "2026-11-05",
+        "notificationTitle": "箱根・芦ノ湖の紅葉が綺麗だよ",
+        "notificationBodyTemplate": "箱根の芦ノ湖周辺が紅葉で見頃を迎えたよ……。海賊船に乗って、お山を彩る赤い色を眺めるのも楽しそうだね……",
+        "priority": 2,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "静岡県",
+          "埼玉県"
+        ]
+      },
+      "toriComment": "湖にうかぶ鳥居の背景に、赤く染まったお山と、天気の良い日は白い富士山まで見えるよ。とっても綺麗でうっとりしちゃう……",
+      "weatherComment": "標高が高いから都内より5度以上寒く感じるよ。マフラーや厚手の防寒着を必ず用意してね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "katsushika_fireworks_2026",
+      "title": "葛飾納涼花火大会",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "river"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-07-21",
+        "endLocalDate": "2026-07-21",
+        "displayDate": "7月下旬（予想）",
+        "timeMemo": "19:20〜20:30（予定、荒天時中止）",
+        "startDate": "2026-07-21",
+        "endDate": "2026-07-21",
+        "displayText": "7月下旬（予想）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "葛飾区",
+        "areaName": "葛飾区柴又野球場（江戸川河川敷）",
+        "address": "東京都葛飾区柴又７丁目１７",
+        "latitude": 35.761,
+        "longitude": 139.882,
+        "lat": 35.761,
+        "lng": 139.882,
+        "regionType": "spot",
+        "displayText": "東京都葛飾区 柴又江戸川河川敷"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "江戸川の河川敷で打ち上げられる、下町ならではの親しみやすさと大迫力が魅力の花火大会。約1万5,000発が間近で打ち上げられ、観客席との距離が近いのが最大の特徴です。柴又の帝釈天参道散策と合わせて楽しめます。",
+      "recommendationReason": "河川敷のグラウンドで見上げるため視界が非常に広く、大迫力の花火を至近距離で浴びるように観賞できます。",
+      "rarityLabel": "夏の特別イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "葛飾区観光課（かつしか観光ポータル）",
+          "url": "https://www.city.katsushika.lg.jp/tourism/1000064/index.html",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "柴又駅と河川敷の混雑",
+          "severity": "high",
+          "message": "会場への最寄り駅である柴又駅は非常に小さいため、終了後は改札付近で激しい混雑が発生します。お帰りの交通ICカードへのチャージは事前にお済ませください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-16",
+        "lastMinuteNotifyDate": "2026-07-21",
+        "notificationTitle": "葛飾納涼花火大会が近づいているよ",
+        "notificationBodyTemplate": "柴又の江戸川河川敷で大迫力の葛飾花火が上がるよ……。映画「男はつらいよ」の街の近くで下町の夏を味わおうね……",
+        "priority": 1,
+        "targetRegions": [
+          "東京都",
+          "千葉県",
+          "埼玉県"
+        ]
+      },
+      "toriComment": "観客席から打ち上げ場所がすごく近いから、お腹の底にドン！って音が響くんだよ。柴又名物の草だんごを買って食べるのもいいね……",
+      "weatherComment": "川風が気持ちいいけど、夜になってもとても暑いから飲み物はいっぱい持っていこうね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "adachi_fireworks_2026",
+      "title": "足立の花火",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "river"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-07-18",
+        "endLocalDate": "2026-07-18",
+        "displayDate": "7月下旬（予想）",
+        "timeMemo": "19:20〜20:20（予定、荒天時中止）",
+        "startDate": "2026-07-18",
+        "endDate": "2026-07-18",
+        "displayText": "7月下旬（予想）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "足立区",
+        "areaName": "荒川河川敷（千住側・西新井側）",
+        "address": "東京都足立区千住大川町他 荒川沿い",
+        "latitude": 35.753,
+        "longitude": 139.799,
+        "lat": 35.753,
+        "lng": 139.799,
+        "regionType": "spot",
+        "displayText": "東京都足立区 荒川河川敷"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "東京の大規模な花火大会の先陣を切って、7月下旬に開催される歴史ある花火大会。わずか1時間の間に約1万3,000発を打ち上げ、高密度で凝縮された怒涛のプログラム構成が見事です。ナイアガラや音楽花火が見所です。",
+      "recommendationReason": "1時間荒川河川敷で休みなく連発されるテンポの良さは爽快で、東京の夏の幕開けを感じられます。",
+      "rarityLabel": "夏の特別イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "足立区観光交流協会（あだち観光ネット）",
+          "url": "https://www.adachikanko.net/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "北千住駅の大混雑と河川敷の傾斜注意",
+          "severity": "high",
+          "message": "会場への最寄りである北千住駅周辺は夕方から完全に身動きが取れない状態となります。また河川敷の斜面は滑りやすいため足元にご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-13",
+        "lastMinuteNotifyDate": "2026-07-18",
+        "notificationTitle": "足立の花火大会が近づいているよ",
+        "notificationBodyTemplate": "東京の夏のトップをかざる「足立の花火」が近づいているよ……。1時間の中にぎゅーっと濃縮された花火、見事だね……",
+        "priority": 1,
+        "targetRegions": [
+          "東京都",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "最後の「満開のしだれ柳」が一斉に降り注ぐように光るシーンは、本当に夜空が真昼みたいに明るくなってすごいんだよ……",
+      "weatherComment": "混雑でなかなか前に進めないから、歩き慣れた靴を履いて熱中症対策をしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "makuhari_beach_fireworks_2026",
+      "title": "幕張ビーチ花火フェスタ",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "beach"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-08-01",
+        "endLocalDate": "2026-08-01",
+        "displayDate": "8月上旬（予想）",
+        "timeMemo": "19:15〜20:30（予定、荒天時中止）",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "displayText": "8月上旬（予想）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "千葉県",
+        "city": "千葉市美浜区",
+        "areaName": "幕張海浜公園（幕張の浜）",
+        "address": "千葉県千葉市美浜区美浜１",
+        "latitude": 35.637,
+        "longitude": 140.038,
+        "lat": 35.637,
+        "lng": 140.038,
+        "regionType": "spot",
+        "displayText": "千葉県千葉市 幕張海浜公園"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "千葉の幕張の浜を舞台に打ち上げられる、国内屈指の規模を誇る海上花火大会。音楽とシンクロするスタマインや、海面で美しく光る水上花火など約2万発が夜の砂浜を美しく照らします。",
+      "recommendationReason": "砂浜に座り、広い夜空と暗い海原いっぱいに咲くダイナミックな光の競演を楽しめます。",
+      "rarityLabel": "夏の特別イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "千葉市観光協会（幕張ビーチ花火フェスタ）",
+          "url": "https://www.chibacity-ta.or.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "有料指定席エリア・入場制限注意",
+          "severity": "high",
+          "message": "砂浜観覧エリアはほぼ全席事前チケット購入が必要な有料エリアです。チケットを持たずに海岸に入ることはできませんのでご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-26",
+        "lastMinuteNotifyDate": "2026-08-01",
+        "notificationTitle": "幕張ビーチ花火フェスタが近づいているよ",
+        "notificationBodyTemplate": "千葉の幕張ビーチで、海の上にひろがる大きな花火が打ち上がるよ……。潮風を感じながら見る光のショー、きれいだね……",
+        "priority": 1,
+        "targetRegions": [
+          "千葉県",
+          "東京都",
+          "埼玉県",
+          "神奈川県"
+        ]
+      },
+      "toriComment": "海原の水面ぎりぎりでパッて丸くひらく水上花火が、暗い海をカラフルに染めてとっても幻想的なんだよ……",
+      "weatherComment": "海沿いだから思ったより風が強くなることがあるよ。持ち物が飛ばされないように注意してね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "saitama_owada_fireworks_2026",
+      "title": "さいたま市花火大会 大和田公園",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "park"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-07-30",
+        "endLocalDate": "2026-07-30",
+        "displayDate": "7月下旬（予想）",
+        "timeMemo": "19:30〜20:30（予定、荒天時中止）",
+        "startDate": "2026-07-30",
+        "endDate": "2026-07-30",
+        "displayText": "7月下旬（予想）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "areaName": "大和田公園周辺",
+        "address": "埼玉県さいたま市大宮区寿能町２丁目",
+        "latitude": 35.918,
+        "longitude": 139.645,
+        "lat": 35.918,
+        "lng": 139.645,
+        "regionType": "spot",
+        "displayText": "埼玉県さいたま市 大和田公園周辺"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "さいたま市で開催される最初の花火大会で、周りを遮る建物が少ない大和田公園周辺で開催されます。見通しの良いグラウンドや田園地帯から約5,000発の花火が打ち上げられ、夜空を華やかに彩ります。",
+      "recommendationReason": "周辺がひらけているため、どの角度からでも綺麗なスタマインや大玉をしっかりと観賞できます。",
+      "rarityLabel": "夏の特別イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "さいたま観光国際公社（さいたま市花火大会）",
+          "url": "https://www.stib.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "大和田駅・東大宮駅の混雑",
+          "severity": "medium",
+          "message": "会場最寄りの東武野田線・大和田駅は非常に混雑します。JR大宮駅や大宮公園駅から少し時間をかけておさんぽしながら歩くのもおすすめです。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-25",
+        "lastMinuteNotifyDate": "2026-07-30",
+        "notificationTitle": "さいたま市大和田花火大会が近づいているよ",
+        "notificationBodyTemplate": "さいたま市の大和田公園周辺で、夏の最初の花火大会があるよ……。ひらけた夜空にパッと開く大きな花火、見事だね……",
+        "priority": 1,
+        "targetRegions": [
+          "埼玉県",
+          "東京都",
+          "千葉県",
+          "神奈川県"
+        ]
+      },
+      "toriComment": "大和田の周りは高いビルが少なくて空が広いから、とってもすっきり花火がきれいに見えるんだよ。のんびり行こうね……",
+      "weatherComment": "公園は草むらも多いから、蚊などの虫対策をしっかりしておでかけしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "atsugi_ayu_fireworks_2026",
+      "title": "あつぎ鮎まつり大花火大会",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "river"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-08-01",
+        "endLocalDate": "2026-08-01",
+        "displayDate": "8月上旬（予想）",
+        "timeMemo": "19:00〜20:30（予定、荒天時中止）",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-01",
+        "displayText": "8月上旬（予想）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "神奈川県",
+        "city": "厚木市",
+        "areaName": "相模川河川敷（三川合流点）",
+        "address": "神奈川県厚木市金田 荒川・相模川合流部",
+        "latitude": 35.449,
+        "longitude": 139.373,
+        "lat": 35.449,
+        "lng": 139.373,
+        "regionType": "spot",
+        "displayText": "神奈川県厚木市 相模川河川敷"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "相模川、中津川、小鮎川の三川合流点で開催される「あつぎ鮎まつり」のメインイベント。約1万発の大迫力の花火が打ち上げられ、名物の長さ約250mの「大ナイアガラ」が美しくきらめきます。",
+      "recommendationReason": "相模川を横断する巨大なナイアガラは圧倒的で、名物の鮎の塩焼きを楽しみながら見る下町のまつり花火です。",
+      "rarityLabel": "夏の特別イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "厚木市観光協会（あつぎ鮎まつり）",
+          "url": "https://www.atsugi-kankou.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "本厚木駅の混雑と規制",
+          "severity": "high",
+          "message": "会場最寄りの本厚木駅は混雑のため激しい入場規制が行われます。また帰りの切符や電子マネー残高にはご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-07-27",
+        "lastMinuteNotifyDate": "2026-08-01",
+        "notificationTitle": "あつぎ鮎まつり花火大会が近づいているよ",
+        "notificationBodyTemplate": "厚木で歴史ある鮎まつりの大花火が上がるよ……。名物の巨大な光のナイアガラ、見てみたいね……",
+        "priority": 1,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "静岡県"
+        ]
+      },
+      "toriComment": "川を渡るように光がさらさら流れ落ちる「大ナイアガラ」はとてもダイナミックだよ。川沿いで鮎を食べながら楽しもう……",
+      "weatherComment": "夜になっても蒸し暑いから、しっかり涼しい格好をして熱中症に気をつけてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "enoshima_fireworks_2026",
+      "title": "江の島マイアミビーチショー花火",
+      "category": "EVENT",
+      "subCategory": "fireworks",
+      "tags": [
+        "night",
+        "beach"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-08-05",
+        "endLocalDate": "2026-08-25",
+        "displayDate": "8月中旬の複数日程（予想）",
+        "timeMemo": "19:40〜19:43頃（3分間の単発ミニ花火大会）",
+        "startDate": "2026-08-05",
+        "endDate": "2026-08-25",
+        "displayText": "8月中旬の複数日程（予想）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "神奈川県",
+        "city": "藤沢市",
+        "areaName": "片瀬海岸西浜",
+        "address": "神奈川県藤沢市片瀬海岸２丁目１９",
+        "latitude": 35.308,
+        "longitude": 139.481,
+        "lat": 35.308,
+        "lng": 139.481,
+        "regionType": "spot",
+        "displayText": "神奈川県藤沢市 片瀬西浜海岸"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "湘南の夏の海辺を盛り上げる、江の島をバックに打ち上がる花火。わずか3分間という極めて短い時間に、ぎゅっと詰め込まれた大迫力の花火が複数日程にわたって打ち上げられます。仕事終わりやドライブついでに気軽に観賞できます。",
+      "recommendationReason": "わずか3分間の「ゲリラ的」かつ密度の濃いスターマインが、湘南の海辺をロマンチックに彩ります。",
+      "rarityLabel": "夏の特別イベント",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "藤沢市観光協会（湘南藤沢観光ポータル）",
+          "url": "https://www.fujisawa-kanko.jp/",
+          "sourceType": "tourism_association",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-08-01",
+        "lastMinuteNotifyDate": "2026-08-05",
+        "notificationTitle": "江の島で3分間のミニ花火があるよ",
+        "notificationBodyTemplate": "江の島の海岸で、夜空を一瞬きらきらに染める3分間の花火が上がるよ……。仕事帰りにふらっと海風と花火を楽しおう……",
+        "priority": 1,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "静岡県"
+        ]
+      },
+      "toriComment": "たったの3分間だから、瞬きしてたら終わっちゃうよ！江の島のシーキャンドルと一緒に夜空が光ってきれい……",
+      "weatherComment": "おさんぽついでにふらっと行けるのがうれしいね。江ノ島線の片瀬江ノ島駅からすぐだよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "ebisu_gardenplace_illumination_2026",
+      "title": "恵比寿ガーデンプレイス・イルミネーション",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "couple"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-14",
+        "endLocalDate": "2027-01-11",
+        "displayDate": "11月中旬〜翌年1月中旬",
+        "timeMemo": "点灯時間 11:00〜23:00（シャンデリアライトアップは11:00〜23:00）",
+        "startDate": "2026-11-14",
+        "endDate": "2027-01-11",
+        "displayText": "11月中旬〜翌年1月中旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "areaName": "恵比寿ガーデンプレイス・センター広場",
+        "address": "東京都渋谷区恵比寿４丁目２０",
+        "latitude": 35.6424,
+        "longitude": 139.7135,
+        "lat": 35.6424,
+        "lng": 139.7135,
+        "regionType": "spot",
+        "displayText": "東京都渋谷区 恵比寿ガーデンプレイス"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "恵比寿ガーデンプレイスを象徴する冬の風物詩。センター広場に世界最大級の「バカラ シャンデリア」が飾られ、上品なクリスタルガラスが温かみのあるシャンパンゴールド色のイルミネーションで照らされます。坂道の並木道も美しいです。",
+      "recommendationReason": "圧倒的な大きさとクリスタルガラスのきらめきを誇る、最高品質のバカラシャンデリアをのんびり眺める上品なデートスポットです。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "恵比寿ガーデンプレイス公式",
+          "url": "https://gardenplace.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-08",
+        "lastMinuteNotifyDate": "2026-11-14",
+        "notificationTitle": "恵比寿でバカラのシャンデリアが点灯するよ",
+        "notificationBodyTemplate": "恵比寿ガーデンプレイスできらきら輝く大きなガラスのシャンデリアが見られるよ……。ロマンチックな夜をお散歩しようね……",
+        "priority": 1,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "ものすごく大きくてキラキラ輝くクリスタルシャンデリアが見事なんだよ。坂道の赤い絨毯を歩いていくとどきどきしちゃうね……",
+      "weatherComment": "風が吹き抜けやすい場所だから、暖かいコートと手袋を忘れないでね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "blue_grotto_shibuya_2026",
+      "title": "青の洞窟 SHIBUYA",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "city"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-12-01",
+        "endLocalDate": "2026-12-25",
+        "displayDate": "12月上旬〜12月下旬",
+        "timeMemo": "点灯時間 17:00〜22:00（予定）",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-25",
+        "displayText": "12月上旬〜12月下旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "areaName": "代々木公園ケヤキ並木〜渋谷公園通り",
+        "address": "東京都渋谷区神南１丁目 代々木公園ケヤキ並木",
+        "latitude": 35.663,
+        "longitude": 139.698,
+        "lat": 35.663,
+        "lng": 139.698,
+        "regionType": "spot",
+        "displayText": "東京都渋谷区 代々木公園ケヤキ並木"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "渋谷公園通りから代々木公園のケヤキ並木にかけて、約80万球の青いLEDで埋め尽くされる大人気イルミネーション。並木道全体が青一色の光に包まれ、まるで静かで美しい「青の洞窟」の中を歩いているかのような没入感のある体験が楽しめます。",
+      "recommendationReason": "渋谷の街中に出現する、青一色の幻想的でエッジの効いた光の世界はビジュアルインパクト抜群です。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "青の洞窟 SHIBUYA 実行委員会",
+          "url": "https://shibuya-aonodoukutsu.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベース of 予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "夜間の混雑・スリ注意",
+          "severity": "medium",
+          "message": "渋谷駅からの通りは大変混雑し、夜間は歩きにくくなります。手荷物やお財布などのスリにご注意ください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-25",
+        "lastMinuteNotifyDate": "2026-12-01",
+        "notificationTitle": "青の洞窟イルミネーションが始まるよ",
+        "notificationBodyTemplate": "渋谷が神秘的な青一色の光のトンネルで染まるよ……。幻想的な「青の洞窟」を通り抜けてみる……？",
+        "priority": 1,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "一面が青い光に包まれて、足元にも光が反射して不思議な水の中にいるみたいな気持ちになるよ。歩くだけでわくわくしちゃうね……",
+      "weatherComment": "代々木公園の中はとても冷えるから、暖かいダウンや防寒着でおでかけしてね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "tokyo_tower_winter_2026",
+      "title": "東京タワー ウィンターファンタジー",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "scenery"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-12-01",
+        "endLocalDate": "2026-12-25",
+        "displayDate": "12月上旬〜12月下旬",
+        "timeMemo": "点灯時間 16:00〜23:00（東京タワー自体の消灯時間にも注意）",
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-25",
+        "displayText": "12月上旬〜12月下旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "東京都",
+        "city": "港区",
+        "areaName": "東京タワー正面玄関前広場",
+        "address": "東京都港区芝公園４丁目２−８",
+        "latitude": 35.6586,
+        "longitude": 139.7454,
+        "lat": 35.6586,
+        "lng": 139.7454,
+        "regionType": "spot",
+        "displayText": "東京都港区 東京タワー"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "東京タワーのふもとを彩るウィンターイルミネーション。そびえ立つ温かみのあるオレンジ色の東京タワーと、正面広場に飾られたきらびやかなツリーやファンタジーな光の装飾が美しく共鳴し合います。写真映えスポットとして人気です。",
+      "recommendationReason": "オレンジ色に輝く東京タワーの鉄骨の美しさを至近距離で見上げながら、クリスマスツリーを楽しめます。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "東京タワー公式（Tokyo Tower）",
+          "url": "https://www.tokyotower.co.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-25",
+        "lastMinuteNotifyDate": "2026-12-01",
+        "notificationTitle": "東京タワーでクリスマスツリーが点灯するよ",
+        "notificationBodyTemplate": "東京タワーの真下にきらきら光るツリーが登場するよ……。大きなタワーと可愛いツリーの組み合わせ、綺麗だね……",
+        "priority": 1,
+        "targetRegions": [
+          "東京都",
+          "神奈川県",
+          "埼玉県",
+          "千葉県"
+        ]
+      },
+      "toriComment": "真下から見上げるオレンジのタワーはとってもあったかくて綺麗なんだよ。かわいいツリーと一緒にとっておきの一枚を撮ろう……",
+      "weatherComment": "お隣の芝公園でおさんぽしてからタワーにのぼるのもいいコースだよ……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "enoshima_jewel_2026",
+      "title": "江の島 湘南の宝石",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "island"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-21",
+        "endLocalDate": "2027-02-28",
+        "displayDate": "11月下旬〜翌年2月下旬",
+        "timeMemo": "点灯時間 17:00〜20:00（土日祝は21:00まで点灯、季節により変動あり）",
+        "startDate": "2026-11-21",
+        "endDate": "2027-02-28",
+        "displayText": "11月下旬〜翌年2月下旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "神奈川県",
+        "city": "藤沢市",
+        "areaName": "江の島サムエル・コッキング苑他",
+        "address": "神奈川県藤沢市江の島２丁目３−２８",
+        "latitude": 35.301,
+        "longitude": 139.479,
+        "lat": 35.301,
+        "lng": 139.479,
+        "regionType": "spot",
+        "displayText": "神奈川県藤沢市 江の島サムエル・コッキング苑"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "関東三大イルミネーションにも認定されている、日本屈指の光のフェスティバル。江の島シーキャンドルから吊り下げられる巨大な光のシャワーや、光のトンネル、満天の星のようなクリスタルガラスのイルミネーションが島全体を彩ります。",
+      "recommendationReason": "島を丸ごと包み込むダイナミックなスケール感と、海とシーキャンドルから見下ろす夜景とのコラボレーションを楽しめます。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "湘南の宝石（江の島イルミネーション公式）",
+          "url": "https://enoshima-seacandle.com/event/shonannohoseki/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "徒歩移動の階段と冷たい海風",
+          "severity": "medium",
+          "message": "江の島の頂上までは階段の登り下りが多く、有料エスカーを使わない場合はかなり歩きます。また、島の上は遮るものがなく海風が極めて冷たいため、厳重な防寒対策をお願いします。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-15",
+        "lastMinuteNotifyDate": "2026-11-21",
+        "notificationTitle": "江の島「湘南の宝石」が始まるよ",
+        "notificationBodyTemplate": "江の島全体が宝石のようにきらきら光るイルミネーションが始まるよ……。光のシャワーを浴びに行ってみようね……",
+        "priority": 1,
+        "targetRegions": [
+          "神奈川県",
+          "東京都",
+          "静岡県",
+          "埼玉県"
+        ]
+      },
+      "toriComment": "シーキャンドルのてっぺんから光のカーテンが広がって、まるで島の上から星のシャワーが降ってくるみたいなんだよ……",
+      "weatherComment": "とても寒いから、温かい江の島ラーメンやたこせんを食べて温まってね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "keyakihiroba_illumination_2026",
+      "title": "さいたま新都心 けやきひろばイルミネーション",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "city"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-14",
+        "endLocalDate": "2027-02-14",
+        "displayDate": "11月中旬〜翌年2月中旬",
+        "timeMemo": "点灯時間 17:00〜24:00",
+        "startDate": "2026-11-14",
+        "endDate": "2027-02-14",
+        "displayText": "11月中旬〜翌年2月中旬",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "埼玉県",
+        "city": "さいたま市中央区",
+        "areaName": "さいたま新都心 けやきひろば",
+        "address": "埼玉県さいたま市中央区新都心１０",
+        "latitude": 35.894,
+        "longitude": 139.631,
+        "lat": 35.894,
+        "lng": 139.631,
+        "regionType": "spot",
+        "displayText": "埼玉県さいたま市 けやきひろば"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "さいたま新都心駅前にある「けやきひろば」のけやきの森約150本が、ブルーやホワイト、シャンパンゴールドなどのLEDでロマンチックに彩られます。光るプロムナードのような並木道は、駅のホームや改札を出てすぐに満喫できます。",
+      "recommendationReason": "駅直結でアクセスが非常に良く、会社の帰りやイベント帰りに、ブルーやゴールドのきらめく並木道を気軽に歩けます。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "さいたまスーパーアリーナ（けやきひろば）公式",
+          "url": "https://www.saitama-arena.co.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "アリーナイベント混雑注意",
+          "severity": "medium",
+          "message": "さいたまスーパーアリーナで大型イベントやコンサートが開催される日は、駅周辺やけやきひろばが非常に混雑し、一時的に通行が規制されることがあります。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-11-08",
+        "lastMinuteNotifyDate": "2026-11-14",
+        "notificationTitle": "けやきひろばイルミネーションが点灯するよ",
+        "notificationBodyTemplate": "さいたま新都心のけやきひろばが、ブルーやホワイトのきれいな星空の森に変身するよ……。お仕事帰りに歩くだけでも楽しいね……",
+        "priority": 1,
+        "targetRegions": [
+          "埼玉県",
+          "東京都",
+          "千葉県",
+          "神奈川県"
+        ]
+      },
+      "toriComment": "青い光の中にゴールドの光が混ざっていて、まるで天の川の下を歩いているみたいで大好きな並木道なんだよ……",
+      "weatherComment": "ひろばのレストランから窓越しにイルミネーションを眺めながら、暖かいディナーを食べるのもいいね……",
+      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "lastVerifiedAt": "2026-05-23"
+    },
+    {
+      "id": "mother_farm_illumination_2026",
+      "title": "マザー牧場 イルミネーション",
+      "category": "EVENT",
+      "subCategory": "illumination",
+      "tags": [
+        "night",
+        "family"
+      ],
+      "dateInfo": {
+        "startLocalDate": "2026-11-03",
+        "endLocalDate": "2027-03-05",
+        "displayDate": "11月上旬〜翌年3月上旬の土日祝（冬休みは毎日）",
+        "timeMemo": "点灯時間 16:00〜19:30",
+        "startDate": "2026-11-03",
+        "endDate": "2027-03-05",
+        "displayText": "11月上旬〜翌年3月上旬の土日祝（冬休みは毎日）",
+        "timezone": "Asia/Tokyo",
+        "isAllDay": false
+      },
+      "location": {
+        "prefecture": "千葉県",
+        "city": "富津市",
+        "areaName": "マザー牧場",
+        "address": "千葉県富津市田倉940−３",
+        "latitude": 35.2504,
+        "longitude": 139.9926,
+        "lat": 35.2504,
+        "lng": 139.9926,
+        "regionType": "spot",
+        "displayText": "千葉県富津市 マザー牧場"
+      },
+      "commonStatus": "CHECKING",
+      "categoryStatus": "scheduled",
+      "description": "房総半島の標高約300mに位置するマザー牧場で開催されるイルミネーション。富士山のシルエットが浮かび上がる美しい夕暮れ（ちばアクアライン方面）から、徐々に光り輝く花園が出現するビジュアルの移り変わりが絶景です。観覧車からの夜景も楽しめます。",
+      "recommendationReason": "標高の高い牧場ならではの澄んだ空気と、富士山の夕焼けから輝く光の花畑への移り変わりを楽しめます。",
+      "rarityLabel": "冬の定番",
+      "imageUrl": "",
+      "sources": [
+        {
+          "name": "マザー牧場公式ホームページ",
+          "url": "https://www.motherfarm.co.jp/",
+          "sourceType": "official",
+          "lastVerifiedAt": "2026-05-23",
+          "certaintyLabel": "公式発表待ち（前年実績ベースの予想日程）",
+          "isPrimary": true
+        }
+      ],
+      "warnings": [
+        {
+          "label": "山頂の極寒注意",
+          "severity": "high",
+          "message": "鹿野山の山頂付近にあるため、日没後は都心や平地よりも非常に冷え込み、強風が吹くことがあります。真冬の防寒着（ダウン、マフラー、手袋）を用意してください。"
+        }
+      ],
+      "notificationMeta": {
+        "notifyEnabled": true,
+        "advanceNotifyDate": "2026-10-28",
+        "lastMinuteNotifyDate": "2026-11-03",
+        "notificationTitle": "マザー牧場のイルミネーションが始まるよ",
+        "notificationBodyTemplate": "マザー牧場で、夕日と富士山の綺麗なシルエットから始まるイルミネーションがあるよ……。お山の上できれいな光の花畑を楽しもう……",
+        "priority": 1,
+        "targetRegions": [
+          "千葉県",
+          "東京都",
+          "神奈川県",
+          "埼玉県"
+        ]
+      },
+      "toriComment": "天気が良い日は、夕焼けの空に富士山の影が綺麗に見えるんだよ。富士山とキラキラの花畑が並ぶ景色はとっても贅沢……",
+      "weatherComment": "夜は本当に寒いから、あったかいジンギスカンや牧場名物の温かいココアを飲んで風邪を引かないようにしてね……",
       "updatedAt": "2026-05-23T12:00:00+09:00",
       "lastVerifiedAt": "2026-05-23"
     }
