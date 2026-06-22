@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.06.15-001",
-  "generatedAt": "2026-06-15T02:45:48+09:00",
+  "dataVersion": "2026.06.22-001",
+  "generatedAt": "2026-06-22T02:47:04+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -373,8 +373,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "二十四節気の一つで、一年の中で最も昼の時間が長く、夜が最も短い日です。この日を境に本格的な夏の暑さが訪れます。",
       "recommendationReason": "夕暮れ時の長い残光をのんびり楽しむ、贅沢な時間を過ごすのがおすすめです。",
       "rarityLabel": "季節の定番",
@@ -403,7 +403,7 @@
       },
       "toriComment": "お昼の時間が一番長い日だね。お外がずっと明るいから、なんだか得した気分になっちゃうな……",
       "weatherComment": "梅雨の晴れ間なら夕焼けがとても綺麗に見えるかもしれないよ……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-06-22T02:47:04+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
