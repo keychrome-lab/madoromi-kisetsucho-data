@@ -2,10 +2,10 @@
   "validationSuccess": true,
   "validationErrors": [],
   "validationWarnings": [],
-  "runAt": "2026-07-06T02:10:15.827742",
+  "runAt": "2026-07-13T01:49:59.334961",
   "summary": {
-    "dataVersion": "2026.07.06-001",
-    "generatedAt": "2026-07-06T02:10:15+09:00",
+    "dataVersion": "2026.07.13-001",
+    "generatedAt": "2026-07-13T01:49:59+09:00",
     "schemaVersion": "1.0",
     "totalItems": 69,
     "categoryCounts": {
@@ -15,8 +15,8 @@
       "EVENT": 25
     },
     "statusCounts": {
-      "ENDED": 23,
-      "UPCOMING": 21,
+      "ENDED": 24,
+      "UPCOMING": 20,
       "CHECKING": 25
     },
     "checkingCount": 25

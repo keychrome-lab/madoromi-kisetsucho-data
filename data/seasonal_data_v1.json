@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.07.06-001",
-  "generatedAt": "2026-07-06T02:10:15+09:00",
+  "dataVersion": "2026.07.13-001",
+  "generatedAt": "2026-07-13T01:49:59+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -244,8 +244,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "織姫と彦星が年に一度、天の川を渡って会うことができるという星祭りの日。短冊に願い事を書いて笹の葉につるします。",
       "recommendationReason": "夏の夜空を眺めて星に願いを馳せる、ロマンチックな年中行事です。",
       "rarityLabel": "季節の定番",
@@ -274,7 +274,7 @@
       },
       "toriComment": "カラフルな短冊がたくさん笹にゆれてるね。みんなの願い事、織姫さますちに届きますように……",
       "weatherComment": "七夕の時期は梅雨のこともあるから、雲のすき間から星が見えるといいな……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-07-13T01:49:59+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
