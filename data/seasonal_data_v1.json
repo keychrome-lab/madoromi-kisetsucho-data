@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.08.10-001",
-  "generatedAt": "2026-08-10T00:58:06+09:00",
+  "dataVersion": "2026.08.17-001",
+  "generatedAt": "2026-08-17T00:39:22+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -576,8 +576,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "年間で最も多くの流星が流れる流星群の一つ。2026年の極大は8月13日午前10時頃と日中のため、前後の夜である「12日夜から13日明け方」および「13日夜から14日明け方」が観測に最適です。月明かりは下弦を過ぎた細い月のため影響は少なめです。",
       "recommendationReason": "夏の定番天体イベント。1時間に多くの流れ星が期待でき、夏休み期間で観測しやすいです。",
       "rarityLabel": "年一回の限定",
@@ -612,7 +612,7 @@
       },
       "toriComment": "ペルセウス座流星群の季節だね。流れ星が流れる瞬間、トリも一緒にお祈りしちゃうよ。あ、お願い事何にしよう……",
       "weatherComment": "長時間夜空を見るなら、レジャーシートに寝転がるのが首が痛くならなくていいよ……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-08-17T00:39:22+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
@@ -1869,8 +1869,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "ご先祖様の霊をお迎えして供養する日本の夏の伝統行事。迎え火や送り火を焚いたり、盆踊りが行われたりします。",
       "recommendationReason": "家族が集まり、ご先祖様をしのぶ日本のアットホームな夏の行事です。",
       "rarityLabel": "季節の定番",
@@ -1905,7 +1905,7 @@
       },
       "toriComment": "きゅうりの馬やなすの牛を飾ってお迎えするんだよね。のんびりお墓参りに行って、ご先祖様に近況を報告しようね……",
       "weatherComment": "とても暑い時期だから、涼しいお部屋で水分をたくさん摂ってね……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-08-17T00:39:22+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
