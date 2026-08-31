@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.08.24-001",
-  "generatedAt": "2026-08-24T00:40:27+09:00",
+  "dataVersion": "2026.08.31-001",
+  "generatedAt": "2026-08-31T02:20:24+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -721,8 +721,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "2026年8月28日の明け方、月の一部が地球の影に隠れる部分月食が日本全国で観測できます。西の低空で食が進行したまま沈む「月入帯食（げつにゅうたいしょく）」となります。",
       "recommendationReason": "西の地平線に沈む間際の欠けた月が非常に神秘的です。",
       "rarityLabel": "数年に一度",
@@ -757,7 +757,7 @@
       },
       "toriComment": "月が地球の影に少しだけ隠れちゃうんだって。西の空に沈みながら欠けていく月、なんだか不思議な景色になりそうだね……",
       "weatherComment": "明け方だから寝不足にならないようにね。終わったら二度寝しちゃおう……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-08-31T02:20:24+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
