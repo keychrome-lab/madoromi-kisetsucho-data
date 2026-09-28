@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.09.21-001",
-  "generatedAt": "2026-09-21T02:21:17+09:00",
+  "dataVersion": "2026.09.28-001",
+  "generatedAt": "2026-09-28T02:34:38+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -309,8 +309,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "旧暦の8月15日の夜に月を鑑賞する行事です。ススキを飾り、月見団子やサトイモなどを供えて収穫への感謝と豊作を祈ります。",
       "recommendationReason": "一年の中で最も美しいとされる「中秋の名月」をのんびり愛でる秋の夜長をお楽しみください。",
       "rarityLabel": "季節の定番",
@@ -339,7 +339,7 @@
       },
       "toriComment": "今夜のお月さまは特別にまるくて明るいね。美味しいお団子を用意して、のんびり眺めよう……",
       "weatherComment": "秋 of 夜風は少し冷えるから、肩に何かはおってお月見してね……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-09-28T02:34:38+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
@@ -2070,8 +2070,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "「祖先をうやまい、なくなった人々をしのぶ」ための国民の祝日。秋のお彼岸の中日にあたり、お墓参りをしておはぎをお供えします。",
       "recommendationReason": "夏の暑さが和らぎ、秋への移り変わりを感じる祝日です。おはぎを楽しむのもおすすめです。",
       "rarityLabel": "季節の定番",
@@ -2100,7 +2100,7 @@
       },
       "toriComment": "昼と夜の長さが同じになる日なんだって。これからどんどん夜が長くなるから、読書や秋の夜長を楽しもうね……",
       "weatherComment": "朝晩は急に涼しくなるから、風邪をひかないように気をつけてね……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-09-28T02:34:38+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
