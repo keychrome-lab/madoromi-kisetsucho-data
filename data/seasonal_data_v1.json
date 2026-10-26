@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.10.19-001",
-  "generatedAt": "2026-10-19T02:23:37+09:00",
+  "dataVersion": "2026.10.26-001",
+  "generatedAt": "2026-10-26T02:18:24+09:00",
   "schemaVersion": "1.0",
   "sourcePolicy": "docs/seasonal-data-operation.md",
   "regionScope": "全国、1都3県中心",
@@ -2268,8 +2268,8 @@
         "regionType": "nationwide",
         "displayText": "全国"
       },
-      "commonStatus": "UPCOMING",
-      "categoryStatus": "upcoming",
+      "commonStatus": "ENDED",
+      "categoryStatus": "ended",
       "description": "ハレー彗星を母天体とし、全流星群の中で2番目に早い対地速度を持つのが特徴。非常にすばやく流れ、時折明るい火球が出現することもあります。2026年は上弦直後の月が夜半前に沈み、夜半から明け方の観測条件は良好です。",
       "recommendationReason": "秋が深まる夜、オリオン座から放射状に飛び出す美しい流れ星を探す特別な夜です。",
       "rarityLabel": "年一回の限定",
@@ -2304,7 +2304,7 @@
       },
       "toriComment": "オリオン座からしゅっと流れる素早い星だよ。見逃さないように、夜空をひろーくぼんやり眺めるのがコツなんだって……",
       "weatherComment": "毛布を持ってお外に出て、星を探すのも楽しそうだね……",
-      "updatedAt": "2026-05-23T12:00:00+09:00",
+      "updatedAt": "2026-10-26T02:18:24+09:00",
       "lastVerifiedAt": "2026-05-23"
     },
     {
